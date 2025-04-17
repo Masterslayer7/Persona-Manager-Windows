@@ -1,0 +1,5420 @@
+[
+    {
+        "model": "personas.abilities",
+        "pk": 1,
+        "fields": {
+            "name": "Attack",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 2,
+        "fields": {
+            "name": "Agi",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 3,
+        "fields": {
+            "name": "Agilao",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 4,
+        "fields": {
+            "name": "Agidyne",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 5,
+        "fields": {
+            "name": "Maragi",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 6,
+        "fields": {
+            "name": "Maragion",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 7,
+        "fields": {
+            "name": "Maragidyne",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 8,
+        "fields": {
+            "name": "Inferno",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 9,
+        "fields": {
+            "name": "Maralagidyne",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 10,
+        "fields": {
+            "name": "Bufu",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 11,
+        "fields": {
+            "name": "Bufula",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 12,
+        "fields": {
+            "name": "Bufudyne",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 13,
+        "fields": {
+            "name": "Mabufu",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 14,
+        "fields": {
+            "name": "Mabufula",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 15,
+        "fields": {
+            "name": "Mabufudyne",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 16,
+        "fields": {
+            "name": "Diamond Dust",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 17,
+        "fields": {
+            "name": "Garu",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 18,
+        "fields": {
+            "name": "Garula",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 19,
+        "fields": {
+            "name": "Garudyne",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 20,
+        "fields": {
+            "name": "Magaru",
+            "type": "wind",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 21,
+        "fields": {
+            "name": "Magarula",
+            "type": "wind",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 22,
+        "fields": {
+            "name": "Magarudyne",
+            "type": "wind",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 23,
+        "fields": {
+            "name": "Panta Rhei",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 24,
+        "fields": {
+            "name": "Zio",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 25,
+        "fields": {
+            "name": "Zionga",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 26,
+        "fields": {
+            "name": "Ziodyne",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 27,
+        "fields": {
+            "name": "Mazio",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 28,
+        "fields": {
+            "name": "Mazionga",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 29,
+        "fields": {
+            "name": "Maziodyne",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 30,
+        "fields": {
+            "name": "Thunder Reign",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 31,
+        "fields": {
+            "name": "Hama",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 32,
+        "fields": {
+            "name": "Hamaon",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 33,
+        "fields": {
+            "name": "Mahama",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 34,
+        "fields": {
+            "name": "Mahamaon",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 35,
+        "fields": {
+            "name": "Samsara",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 36,
+        "fields": {
+            "name": "Kouha",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 37,
+        "fields": {
+            "name": "Kouga",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 38,
+        "fields": {
+            "name": "Kougaon",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 39,
+        "fields": {
+            "name": "Makouha",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 40,
+        "fields": {
+            "name": "Makouga",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 41,
+        "fields": {
+            "name": "Makougaon",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 42,
+        "fields": {
+            "name": "Divine Judgment",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 43,
+        "fields": {
+            "name": "Mudo",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 44,
+        "fields": {
+            "name": "Mudoon",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 45,
+        "fields": {
+            "name": "Mamudo",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 46,
+        "fields": {
+            "name": "Mamudoon",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 47,
+        "fields": {
+            "name": "Die For Me!",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 48,
+        "fields": {
+            "name": "Eiha",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 49,
+        "fields": {
+            "name": "Eiga",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 50,
+        "fields": {
+            "name": "Eigaon",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 51,
+        "fields": {
+            "name": "Maeiha",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 52,
+        "fields": {
+            "name": "Maeiga",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 53,
+        "fields": {
+            "name": "Maeigaon",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 54,
+        "fields": {
+            "name": "Demonic Decree",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 55,
+        "fields": {
+            "name": "Megido",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 56,
+        "fields": {
+            "name": "Megidola",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 57,
+        "fields": {
+            "name": "Megidolaon",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 58,
+        "fields": {
+            "name": "Black Viper",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 59,
+        "fields": {
+            "name": "Morning Star",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 60,
+        "fields": {
+            "name": "Poisma",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 61,
+        "fields": {
+            "name": "Poison Mist",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 62,
+        "fields": {
+            "name": "Marin Karin",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 63,
+        "fields": {
+            "name": "Sexy Dance",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 64,
+        "fields": {
+            "name": "Bewilder",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 65,
+        "fields": {
+            "name": "Eerie Sound",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 66,
+        "fields": {
+            "name": "Pulinpa",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 67,
+        "fields": {
+            "name": "Tentarafoo",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 68,
+        "fields": {
+            "name": "Evil Touch",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 69,
+        "fields": {
+            "name": "Evil Smile",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 70,
+        "fields": {
+            "name": "Provoke",
+            "type": "ailment",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 71,
+        "fields": {
+            "name": "Infuriate",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 72,
+        "fields": {
+            "name": "Ghastly Wail",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 73,
+        "fields": {
+            "name": "Foul Breath",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 74,
+        "fields": {
+            "name": "Stagnant Air",
+            "type": "almighty",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 75,
+        "fields": {
+            "name": "Life Drain",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 76,
+        "fields": {
+            "name": "Spirit Drain",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 77,
+        "fields": {
+            "name": "Virus Breath",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 78,
+        "fields": {
+            "name": "Power Slash",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 79,
+        "fields": {
+            "name": "Fatal End",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 80,
+        "fields": {
+            "name": "Tempest Slash",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 81,
+        "fields": {
+            "name": "Vacuum Slash",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 82,
+        "fields": {
+            "name": "Blade of Fury",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 83,
+        "fields": {
+            "name": "Deathbound",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 84,
+        "fields": {
+            "name": "Brave Blade",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 85,
+        "fields": {
+            "name": "Vorpal Blade",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 86,
+        "fields": {
+            "name": "Heaven's Blade",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 87,
+        "fields": {
+            "name": "Getsu-ei",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 88,
+        "fields": {
+            "name": "Zan-ei",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 89,
+        "fields": {
+            "name": "Neuro Slash",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 90,
+        "fields": {
+            "name": "Bash",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 91,
+        "fields": {
+            "name": "Assault Dive",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 92,
+        "fields": {
+            "name": "Gigantic Fist",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 93,
+        "fields": {
+            "name": "Swift Strike",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 94,
+        "fields": {
+            "name": "Herculean Strike",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 95,
+        "fields": {
+            "name": "Heat Wave",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 96,
+        "fields": {
+            "name": "God's Hand",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 97,
+        "fields": {
+            "name": "Akasha Arts",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 98,
+        "fields": {
+            "name": "Sonic Punch",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 99,
+        "fields": {
+            "name": "Single Shot",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 100,
+        "fields": {
+            "name": "Holy Arrow",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 101,
+        "fields": {
+            "name": "Torrent Shot",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 102,
+        "fields": {
+            "name": "Vile Assault",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 103,
+        "fields": {
+            "name": "Arrow Rain",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 104,
+        "fields": {
+            "name": "Myriad Arrows",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 105,
+        "fields": {
+            "name": "Cruel Attack",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 106,
+        "fields": {
+            "name": "Primal Force",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 107,
+        "fields": {
+            "name": "Pralaya",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 108,
+        "fields": {
+            "name": "Poison Arrow",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 109,
+        "fields": {
+            "name": "Dia",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 110,
+        "fields": {
+            "name": "Diarama",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 111,
+        "fields": {
+            "name": "Diarahan",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 112,
+        "fields": {
+            "name": "Media",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 113,
+        "fields": {
+            "name": "Mediarama",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 114,
+        "fields": {
+            "name": "Mediarahan",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 115,
+        "fields": {
+            "name": "Salvation",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 116,
+        "fields": {
+            "name": "Recarm",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 117,
+        "fields": {
+            "name": "Samarecarm",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 118,
+        "fields": {
+            "name": "Recarmdra",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 119,
+        "fields": {
+            "name": "Patra",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 120,
+        "fields": {
+            "name": "Me Patra",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 121,
+        "fields": {
+            "name": "Baisudi",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 122,
+        "fields": {
+            "name": "Mabaisudi",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 123,
+        "fields": {
+            "name": "Amrita Shower",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 124,
+        "fields": {
+            "name": "Amrita Drop",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 125,
+        "fields": {
+            "name": "Tarukaja",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 126,
+        "fields": {
+            "name": "Rakukaja",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 127,
+        "fields": {
+            "name": "Sukukaja",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 128,
+        "fields": {
+            "name": "Matarukaja",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 129,
+        "fields": {
+            "name": "Marakukaja",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 130,
+        "fields": {
+            "name": "Masukukaja",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 131,
+        "fields": {
+            "name": "Heat Riser",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 132,
+        "fields": {
+            "name": "Tarunda",
+            "type": "support",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 133,
+        "fields": {
+            "name": "Rakunda",
+            "type": "support",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 134,
+        "fields": {
+            "name": "Sukunda",
+            "type": "support",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 135,
+        "fields": {
+            "name": "Matarunda",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 136,
+        "fields": {
+            "name": "Marakunda",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 137,
+        "fields": {
+            "name": "Masukunda",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 138,
+        "fields": {
+            "name": "Debilitate",
+            "type": "support",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 139,
+        "fields": {
+            "name": "Dekaja",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 140,
+        "fields": {
+            "name": "Dekunda",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 141,
+        "fields": {
+            "name": "Charge",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 142,
+        "fields": {
+            "name": "Concentrate",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 143,
+        "fields": {
+            "name": "Bloody Charge",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 144,
+        "fields": {
+            "name": "Rebellion",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 145,
+        "fields": {
+            "name": "Revolution",
+            "type": "support",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 146,
+        "fields": {
+            "name": "Tetrakarn",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 147,
+        "fields": {
+            "name": "Makarakarn",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 148,
+        "fields": {
+            "name": "Fire Break",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 149,
+        "fields": {
+            "name": "Ice Break",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 150,
+        "fields": {
+            "name": "Wind Break",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 151,
+        "fields": {
+            "name": "Elec Break",
+            "type": "support",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 152,
+        "fields": {
+            "name": "Sinful Shell",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 153,
+        "fields": {
+            "name": "Wild Thunder",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 154,
+        "fields": {
+            "name": "Vacuum Wave",
+            "type": "wind",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 155,
+        "fields": {
+            "name": "Blazing Hell",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 156,
+        "fields": {
+            "name": "Ice Age",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 157,
+        "fields": {
+            "name": "Cosmic Flare",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 158,
+        "fields": {
+            "name": "One-shot Kill",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 159,
+        "fields": {
+            "name": "Rebellion Blade",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 160,
+        "fields": {
+            "name": "Masquerade",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 161,
+        "fields": {
+            "name": "Cross Slash",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 162,
+        "fields": {
+            "name": "Magatsu Mandala",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 163,
+        "fields": {
+            "name": "Shining Arrows",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 164,
+        "fields": {
+            "name": "Full Analysis",
+            "type": "special",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 165,
+        "fields": {
+            "name": "Escape Route",
+            "type": "special",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 166,
+        "fields": {
+            "name": "Jamming",
+            "type": "special",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 167,
+        "fields": {
+            "name": "Tartarus Search",
+            "type": "special",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 168,
+        "fields": {
+            "name": "Sylphid Aura",
+            "type": "special",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 169,
+        "fields": {
+            "name": "Shock Noise",
+            "type": "special",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 170,
+        "fields": {
+            "name": "Cadenza",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 171,
+        "fields": {
+            "name": "Jack Brothers",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 172,
+        "fields": {
+            "name": "King and I",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 173,
+        "fields": {
+            "name": "Best Friends",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 174,
+        "fields": {
+            "name": "Scarlet Havoc",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 175,
+        "fields": {
+            "name": "Trickster",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 176,
+        "fields": {
+            "name": "Armageddon",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 177,
+        "fields": {
+            "name": "Justice",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 178,
+        "fields": {
+            "name": "Dreamfest",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 179,
+        "fields": {
+            "name": "Shadow Hound",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 180,
+        "fields": {
+            "name": "Oracle",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 181,
+        "fields": {
+            "name": "Oracle B",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 182,
+        "fields": {
+            "name": "Oracle C",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 183,
+        "fields": {
+            "name": "Revelation",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 184,
+        "fields": {
+            "name": "Revelation B",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 185,
+        "fields": {
+            "name": "Revelation C",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 186,
+        "fields": {
+            "name": "Revelation D",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 187,
+        "fields": {
+            "name": "Revelation E",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 188,
+        "fields": {
+            "name": "Cyclone Arrow",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 189,
+        "fields": {
+            "name": "Hack n' Blast",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 190,
+        "fields": {
+            "name": "Lightning Spike",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 191,
+        "fields": {
+            "name": "Blizzard Edge",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 192,
+        "fields": {
+            "name": "Oracle D",
+            "type": "almighty",
+            "range": "Rand allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 193,
+        "fields": {
+            "name": "Orgia Mode",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 194,
+        "fields": {
+            "name": "Divine Retribution",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 195,
+        "fields": {
+            "name": "Hound of Hades",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 196,
+        "fields": {
+            "name": "Bleeding Fury",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 197,
+        "fields": {
+            "name": "Orgia Mode B",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 198,
+        "fields": {
+            "name": "Tranquility",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 199,
+        "fields": {
+            "name": "Blaze of Life",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 200,
+        "fields": {
+            "name": "Electric Onslaught",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 201,
+        "fields": {
+            "name": "Blade of Execution",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 202,
+        "fields": {
+            "name": "Revelation F",
+            "type": "almighty",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 203,
+        "fields": {
+            "name": "Maximum Firepower",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 204,
+        "fields": {
+            "name": "Divine Intervention",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 205,
+        "fields": {
+            "name": "Power Howling",
+            "type": "support",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 206,
+        "fields": {
+            "name": "Charging Blitz",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 207,
+        "fields": {
+            "name": "All-Out Attack",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 208,
+        "fields": {
+            "name": "Slash Attack",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 209,
+        "fields": {
+            "name": "Strike Attack",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 210,
+        "fields": {
+            "name": "Pierce Attack",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 211,
+        "fields": {
+            "name": "Fire Attack",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 212,
+        "fields": {
+            "name": "Ice Attack",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 213,
+        "fields": {
+            "name": "Electric Attack",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 214,
+        "fields": {
+            "name": "Wind Attack",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 215,
+        "fields": {
+            "name": "Light Attack",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 216,
+        "fields": {
+            "name": "Dark Attack",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 217,
+        "fields": {
+            "name": "Almighty Attack",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 218,
+        "fields": {
+            "name": "Summon",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 219,
+        "fields": {
+            "name": "Ice Storm",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 220,
+        "fields": {
+            "name": "Invitation to Chaos",
+            "type": "almighty",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 221,
+        "fields": {
+            "name": "Doomsday Doctrine",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 222,
+        "fields": {
+            "name": "Paradigm Shift",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 223,
+        "fields": {
+            "name": "Heartbreaker",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 224,
+        "fields": {
+            "name": "Seductive Breath",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 225,
+        "fields": {
+            "name": "Holy Arrow B",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 226,
+        "fields": {
+            "name": "Unite",
+            "type": "almighty",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 227,
+        "fields": {
+            "name": "Separate",
+            "type": "almighty",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 228,
+        "fields": {
+            "name": "Restore",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 229,
+        "fields": {
+            "name": "Armor-Piercing Shell",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 230,
+        "fields": {
+            "name": "High-Explosive Shell",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 231,
+        "fields": {
+            "name": "Frag Grenade",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 232,
+        "fields": {
+            "name": "Lightning Grenade",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 233,
+        "fields": {
+            "name": "Flash Grenade",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 234,
+        "fields": {
+            "name": "Flame Grenade",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 235,
+        "fields": {
+            "name": "Shock Grenade",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 236,
+        "fields": {
+            "name": "EX Flash Grenade",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 237,
+        "fields": {
+            "name": "Weakness Scan",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 238,
+        "fields": {
+            "name": "Potent Stim Injection",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 239,
+        "fields": {
+            "name": "Paradise of Quietus",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 240,
+        "fields": {
+            "name": "Pierce Attack B",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 241,
+        "fields": {
+            "name": "Slash Attack B",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 242,
+        "fields": {
+            "name": "Megidolaon B",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 243,
+        "fields": {
+            "name": "Poison Mist B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 244,
+        "fields": {
+            "name": "Charging Complete",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 245,
+        "fields": {
+            "name": "Accelerated Charging",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 246,
+        "fields": {
+            "name": "High-Volt Current",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 247,
+        "fields": {
+            "name": "Mega Spark",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 248,
+        "fields": {
+            "name": "Giga Spark",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 249,
+        "fields": {
+            "name": "Tera Spark",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 250,
+        "fields": {
+            "name": "Megidolaon C",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 251,
+        "fields": {
+            "name": "Neuro Slash B",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 252,
+        "fields": {
+            "name": "Megidola B",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 253,
+        "fields": {
+            "name": "Initiate Charging",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 254,
+        "fields": {
+            "name": "Arcana Shift",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 255,
+        "fields": {
+            "name": "Arcana Shift B",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 256,
+        "fields": {
+            "name": "Arcana Shift C",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 257,
+        "fields": {
+            "name": "Arcana Shift D",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 258,
+        "fields": {
+            "name": "Arcana Shift E",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 259,
+        "fields": {
+            "name": "Arcana Shift F",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 260,
+        "fields": {
+            "name": "Arcana Shift G",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 261,
+        "fields": {
+            "name": "Arcana Shift H",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 262,
+        "fields": {
+            "name": "Arcana Shift I",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 263,
+        "fields": {
+            "name": "Arcana Shift J",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 264,
+        "fields": {
+            "name": "Arcana Shift K",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 265,
+        "fields": {
+            "name": "Arcana Shift L",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 266,
+        "fields": {
+            "name": "Arcana Shift M",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 267,
+        "fields": {
+            "name": "Sweep",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 268,
+        "fields": {
+            "name": "Sunder",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 269,
+        "fields": {
+            "name": "Night Queen",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 270,
+        "fields": {
+            "name": "Apocalypse",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 271,
+        "fields": {
+            "name": "Ice Storm B",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 272,
+        "fields": {
+            "name": "Doomsday Doctrine B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 273,
+        "fields": {
+            "name": "Heartbreaker B",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 274,
+        "fields": {
+            "name": "Tera Spark B",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 275,
+        "fields": {
+            "name": "High-Volt Current B",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 276,
+        "fields": {
+            "name": "Grim Transcendence",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 277,
+        "fields": {
+            "name": "Mobius Rondo",
+            "type": "strike",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 278,
+        "fields": {
+            "name": "Wheel of Fortune",
+            "type": "support",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 279,
+        "fields": {
+            "name": "Wheel of Fortune B",
+            "type": "almighty",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 280,
+        "fields": {
+            "name": "Wheel of Fortune C",
+            "type": "support",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 281,
+        "fields": {
+            "name": "Wheel of Fortune D",
+            "type": "support",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 282,
+        "fields": {
+            "name": "Wheel of Fortune E",
+            "type": "passive",
+            "range": "Universal"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 283,
+        "fields": {
+            "name": "Summon B",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 284,
+        "fields": {
+            "name": "Death",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 285,
+        "fields": {
+            "name": "Great Seal",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 286,
+        "fields": {
+            "name": "Mahama B",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 287,
+        "fields": {
+            "name": "Life Drain B",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 288,
+        "fields": {
+            "name": "Myriad Arrows B",
+            "type": "pierce",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 289,
+        "fields": {
+            "name": "Spirit Drain B",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 290,
+        "fields": {
+            "name": "Evil Smile B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 291,
+        "fields": {
+            "name": "Infuriate B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 292,
+        "fields": {
+            "name": "Spring of Life",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 293,
+        "fields": {
+            "name": "Sexy Dance B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 294,
+        "fields": {
+            "name": "Life Drain C",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 295,
+        "fields": {
+            "name": "Slash Attack C",
+            "type": "slash",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 296,
+        "fields": {
+            "name": "Strike Attack B",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 297,
+        "fields": {
+            "name": "Pierce Attack C",
+            "type": "pierce",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 298,
+        "fields": {
+            "name": "Ziodyne B",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 299,
+        "fields": {
+            "name": "Soul Drain",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 300,
+        "fields": {
+            "name": "Mahamaon B",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 301,
+        "fields": {
+            "name": "Mamudoon B",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 302,
+        "fields": {
+            "name": "Life Drain D",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 303,
+        "fields": {
+            "name": "Spirit Drain C",
+            "type": "almighty",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 304,
+        "fields": {
+            "name": "Hamaon B",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 305,
+        "fields": {
+            "name": "Mudoon B",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 306,
+        "fields": {
+            "name": "Diarama B",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 307,
+        "fields": {
+            "name": "Assault Dive B",
+            "type": "strike",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 308,
+        "fields": {
+            "name": "Megidolaon D",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 309,
+        "fields": {
+            "name": "Tentarafoo B",
+            "type": "ailment",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 310,
+        "fields": {
+            "name": "Neuro Slash C",
+            "type": "slash",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 311,
+        "fields": {
+            "name": "Drop Money",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 312,
+        "fields": {
+            "name": "Drop Item",
+            "type": "passive",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 313,
+        "fields": {
+            "name": "Freeze (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 314,
+        "fields": {
+            "name": "Freeze (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 315,
+        "fields": {
+            "name": "Freeze (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 316,
+        "fields": {
+            "name": "Shock (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 317,
+        "fields": {
+            "name": "Shock (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 318,
+        "fields": {
+            "name": "Shock (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 319,
+        "fields": {
+            "name": "Confuse (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 320,
+        "fields": {
+            "name": "Confuse (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 321,
+        "fields": {
+            "name": "Confuse (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 322,
+        "fields": {
+            "name": "Fear (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 323,
+        "fields": {
+            "name": "Fear (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 324,
+        "fields": {
+            "name": "Fear (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 325,
+        "fields": {
+            "name": "Distress (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 326,
+        "fields": {
+            "name": "Distress (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 327,
+        "fields": {
+            "name": "Distress (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 328,
+        "fields": {
+            "name": "Charm (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 329,
+        "fields": {
+            "name": "Charm (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 330,
+        "fields": {
+            "name": "Charm (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 331,
+        "fields": {
+            "name": "Rage (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 332,
+        "fields": {
+            "name": "Rage (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 333,
+        "fields": {
+            "name": "Rage (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 334,
+        "fields": {
+            "name": "Poison (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 335,
+        "fields": {
+            "name": "Poison (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 336,
+        "fields": {
+            "name": "Poison (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 337,
+        "fields": {
+            "name": "All Ailments (low)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 338,
+        "fields": {
+            "name": "All Ailments (med)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 339,
+        "fields": {
+            "name": "All Ailments (high)",
+            "type": "passive",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 340,
+        "fields": {
+            "name": "Medicine",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 341,
+        "fields": {
+            "name": "Bead",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 342,
+        "fields": {
+            "name": "Bead Chain",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 343,
+        "fields": {
+            "name": "Precious Egg",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 344,
+        "fields": {
+            "name": "Potent Medicine",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 345,
+        "fields": {
+            "name": "Medical Powder",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 346,
+        "fields": {
+            "name": "Muscle Drink",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 347,
+        "fields": {
+            "name": "Odd Morsel",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 348,
+        "fields": {
+            "name": "Rancid Gravy",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 349,
+        "fields": {
+            "name": "Umugi Water",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 350,
+        "fields": {
+            "name": "Bread",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 351,
+        "fields": {
+            "name": "Cutlet Sandwich",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 352,
+        "fields": {
+            "name": "Snuff Soul",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 353,
+        "fields": {
+            "name": "Chewing Soul",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 354,
+        "fields": {
+            "name": "Soma",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 355,
+        "fields": {
+            "name": "SP Drink",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 356,
+        "fields": {
+            "name": "Dis-Poison",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 357,
+        "fields": {
+            "name": "Dis-Rage",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 358,
+        "fields": {
+            "name": "Dis-Charm",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 359,
+        "fields": {
+            "name": "Me Patra Gem",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 360,
+        "fields": {
+            "name": "Traesto Gem",
+            "type": "passive",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 361,
+        "fields": {
+            "name": "Trafuri Gem",
+            "type": "special",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 362,
+        "fields": {
+            "name": "Agilao Gem",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 363,
+        "fields": {
+            "name": "Maragi Gem",
+            "type": "fire",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 364,
+        "fields": {
+            "name": "Bufula Gem",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 365,
+        "fields": {
+            "name": "Mabufu Gem",
+            "type": "ice",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 366,
+        "fields": {
+            "name": "Zionga Gem",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 367,
+        "fields": {
+            "name": "Mazio Gem",
+            "type": "electric",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 368,
+        "fields": {
+            "name": "Garula Gem",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 369,
+        "fields": {
+            "name": "Magaru Gem",
+            "type": "wind",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 370,
+        "fields": {
+            "name": "Megido Gem",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 371,
+        "fields": {
+            "name": "Megidolaon Gem",
+            "type": "almighty",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 372,
+        "fields": {
+            "name": "Purifying Rice",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 373,
+        "fields": {
+            "name": "Curse Paper",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 374,
+        "fields": {
+            "name": "Flame Magatama",
+            "type": "fire",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 375,
+        "fields": {
+            "name": "Frigid Magatama",
+            "type": "ice",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 376,
+        "fields": {
+            "name": "Shock Magatama",
+            "type": "electric",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 377,
+        "fields": {
+            "name": "Gale Magatama",
+            "type": "wind",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 378,
+        "fields": {
+            "name": "Homunculus",
+            "type": "passive",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 379,
+        "fields": {
+            "name": "Plume of Gold",
+            "type": "passive",
+            "range": "Party"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 380,
+        "fields": {
+            "name": "Life Stone",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 381,
+        "fields": {
+            "name": "Mega Kudzu",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 382,
+        "fields": {
+            "name": "Value Medicine",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 383,
+        "fields": {
+            "name": "First Aid Kit M",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 384,
+        "fields": {
+            "name": "Soul Drop",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 385,
+        "fields": {
+            "name": "Kouga Gem",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 386,
+        "fields": {
+            "name": "Makouha Gem",
+            "type": "light",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 387,
+        "fields": {
+            "name": "Eiga Gem",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 388,
+        "fields": {
+            "name": "Maeiha Gem",
+            "type": "dark",
+            "range": "All foes"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 389,
+        "fields": {
+            "name": "Holy Magatama",
+            "type": "light",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 390,
+        "fields": {
+            "name": "Malice Magatama",
+            "type": "dark",
+            "range": "1 foe"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 391,
+        "fields": {
+            "name": "Dis-Distress",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 392,
+        "fields": {
+            "name": "Dis-Confuse",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 393,
+        "fields": {
+            "name": "Dis-Fear",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 394,
+        "fields": {
+            "name": "Amrita Gem",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 395,
+        "fields": {
+            "name": "Defrost Powder",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 396,
+        "fields": {
+            "name": "Antistatic Paper",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 397,
+        "fields": {
+            "name": "Smelling Salts",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 398,
+        "fields": {
+            "name": "Weird Takoyaki",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 399,
+        "fields": {
+            "name": "HP Drink",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 400,
+        "fields": {
+            "name": "Single-target Dekunda",
+            "type": "support",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 401,
+        "fields": {
+            "name": "Soul Spinach",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 402,
+        "fields": {
+            "name": "Leafy Soul Spinach",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 403,
+        "fields": {
+            "name": "Golden Tomato",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 404,
+        "fields": {
+            "name": "Big Golden Tomato",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 405,
+        "fields": {
+            "name": "Tiny Golden Tomato",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 406,
+        "fields": {
+            "name": "Golden Tomato EX",
+            "type": "recovery",
+            "range": "All allies"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 407,
+        "fields": {
+            "name": "Platinum Tomato",
+            "type": "recovery",
+            "range": "1 ally"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 408,
+        "fields": {
+            "name": "Resist Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 409,
+        "fields": {
+            "name": "Null Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 410,
+        "fields": {
+            "name": "Repel Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 411,
+        "fields": {
+            "name": "Drain Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 412,
+        "fields": {
+            "name": "Resist Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 413,
+        "fields": {
+            "name": "Null Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 414,
+        "fields": {
+            "name": "Repel Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 415,
+        "fields": {
+            "name": "Drain Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 416,
+        "fields": {
+            "name": "Resist Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 417,
+        "fields": {
+            "name": "Null Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 418,
+        "fields": {
+            "name": "Repel Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 419,
+        "fields": {
+            "name": "Drain Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 420,
+        "fields": {
+            "name": "Resist Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 421,
+        "fields": {
+            "name": "Null Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 422,
+        "fields": {
+            "name": "Repel Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 423,
+        "fields": {
+            "name": "Drain Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 424,
+        "fields": {
+            "name": "Resist Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 425,
+        "fields": {
+            "name": "Null Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 426,
+        "fields": {
+            "name": "Repel Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 427,
+        "fields": {
+            "name": "Drain Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 428,
+        "fields": {
+            "name": "Resist Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 429,
+        "fields": {
+            "name": "Null Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 430,
+        "fields": {
+            "name": "Repel Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 431,
+        "fields": {
+            "name": "Drain Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 432,
+        "fields": {
+            "name": "Resist Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 433,
+        "fields": {
+            "name": "Null Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 434,
+        "fields": {
+            "name": "Repel Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 435,
+        "fields": {
+            "name": "Drain Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 436,
+        "fields": {
+            "name": "Resist Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 437,
+        "fields": {
+            "name": "Null Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 438,
+        "fields": {
+            "name": "Repel Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 439,
+        "fields": {
+            "name": "Drain Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 440,
+        "fields": {
+            "name": "Resist Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 441,
+        "fields": {
+            "name": "Null Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 442,
+        "fields": {
+            "name": "Repel Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 443,
+        "fields": {
+            "name": "Drain Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 444,
+        "fields": {
+            "name": "Resist Dizzy",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 445,
+        "fields": {
+            "name": "Null Dizzy",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 446,
+        "fields": {
+            "name": "Resist Poison",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 447,
+        "fields": {
+            "name": "Null Poison",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 448,
+        "fields": {
+            "name": "Resist Charm",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 449,
+        "fields": {
+            "name": "Null Charm",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 450,
+        "fields": {
+            "name": "Resist Distress",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 451,
+        "fields": {
+            "name": "Null Distress",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 452,
+        "fields": {
+            "name": "Resist Confuse",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 453,
+        "fields": {
+            "name": "Null Confuse",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 454,
+        "fields": {
+            "name": "Resist Fear",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 455,
+        "fields": {
+            "name": "Null Fear",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 456,
+        "fields": {
+            "name": "Resist Rage",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 457,
+        "fields": {
+            "name": "Null Rage",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 458,
+        "fields": {
+            "name": "Resist Freeze",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 459,
+        "fields": {
+            "name": "Null Freeze",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 460,
+        "fields": {
+            "name": "Resist Shock",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 461,
+        "fields": {
+            "name": "Null Shock",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 462,
+        "fields": {
+            "name": "Unshaken Will",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 463,
+        "fields": {
+            "name": "Resist Ailments",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 464,
+        "fields": {
+            "name": "Dodge Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 465,
+        "fields": {
+            "name": "Evade Slash",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 466,
+        "fields": {
+            "name": "Dodge Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 467,
+        "fields": {
+            "name": "Evade Strike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 468,
+        "fields": {
+            "name": "Dodge Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 469,
+        "fields": {
+            "name": "Evade Pierce",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 470,
+        "fields": {
+            "name": "Dodge Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 471,
+        "fields": {
+            "name": "Evade Fire",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 472,
+        "fields": {
+            "name": "Dodge Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 473,
+        "fields": {
+            "name": "Evade Ice",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 474,
+        "fields": {
+            "name": "Dodge Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 475,
+        "fields": {
+            "name": "Evade Wind",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 476,
+        "fields": {
+            "name": "Dodge Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 477,
+        "fields": {
+            "name": "Evade Elec",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 478,
+        "fields": {
+            "name": "Dodge Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 479,
+        "fields": {
+            "name": "Evade Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 480,
+        "fields": {
+            "name": "Dodge Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 481,
+        "fields": {
+            "name": "Evade Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 482,
+        "fields": {
+            "name": "Counter",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 483,
+        "fields": {
+            "name": "Counterstrike",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 484,
+        "fields": {
+            "name": "High Counter",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 485,
+        "fields": {
+            "name": "Regenerate 1",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 486,
+        "fields": {
+            "name": "Regenerate 2",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 487,
+        "fields": {
+            "name": "Regenerate 3",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 488,
+        "fields": {
+            "name": "Invigorate 1",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 489,
+        "fields": {
+            "name": "Invigorate 2",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 490,
+        "fields": {
+            "name": "Invigorate 3",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 491,
+        "fields": {
+            "name": "Slash Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 492,
+        "fields": {
+            "name": "Slash Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 493,
+        "fields": {
+            "name": "Strike Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 494,
+        "fields": {
+            "name": "Strike Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 495,
+        "fields": {
+            "name": "Pierce Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 496,
+        "fields": {
+            "name": "Pierce Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 497,
+        "fields": {
+            "name": "Fire Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 498,
+        "fields": {
+            "name": "Fire Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 499,
+        "fields": {
+            "name": "Ice Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 500,
+        "fields": {
+            "name": "Ice Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 501,
+        "fields": {
+            "name": "Wind Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 502,
+        "fields": {
+            "name": "Wind Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 503,
+        "fields": {
+            "name": "Elec Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 504,
+        "fields": {
+            "name": "Elec Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 505,
+        "fields": {
+            "name": "Light Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 506,
+        "fields": {
+            "name": "Light Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 507,
+        "fields": {
+            "name": "Dark Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 508,
+        "fields": {
+            "name": "Dark Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 509,
+        "fields": {
+            "name": "Dizzy Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 510,
+        "fields": {
+            "name": "Poison Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 511,
+        "fields": {
+            "name": "Charm Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 512,
+        "fields": {
+            "name": "Distress Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 513,
+        "fields": {
+            "name": "Confuse Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 514,
+        "fields": {
+            "name": "Fear Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 515,
+        "fields": {
+            "name": "Rage Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 516,
+        "fields": {
+            "name": "Freeze Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 517,
+        "fields": {
+            "name": "Shock Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 518,
+        "fields": {
+            "name": "Ailment Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 519,
+        "fields": {
+            "name": "Hama Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 520,
+        "fields": {
+            "name": "Mudo Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 521,
+        "fields": {
+            "name": "Auto Tarukaja",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 522,
+        "fields": {
+            "name": "Auto Rakukaja",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 523,
+        "fields": {
+            "name": "Auto Sukukaja",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 524,
+        "fields": {
+            "name": "Auto Mataru",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 525,
+        "fields": {
+            "name": "Auto Maraku",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 526,
+        "fields": {
+            "name": "Auto Masuku",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 527,
+        "fields": {
+            "name": "Auto Rebellion",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 528,
+        "fields": {
+            "name": "Sharp Student",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 529,
+        "fields": {
+            "name": "Apt Pupil",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 530,
+        "fields": {
+            "name": "Endure",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 531,
+        "fields": {
+            "name": "Enduring Soul",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 532,
+        "fields": {
+            "name": "Life Aid",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 533,
+        "fields": {
+            "name": "Victory Cry",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 534,
+        "fields": {
+            "name": "Divine Grace",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 535,
+        "fields": {
+            "name": "Angelic Grace",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 536,
+        "fields": {
+            "name": "Raging Tiger",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 537,
+        "fields": {
+            "name": "Vidyaraja's Blessing",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 538,
+        "fields": {
+            "name": "Growth 1",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 539,
+        "fields": {
+            "name": "Growth 2",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 540,
+        "fields": {
+            "name": "Growth 3",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 541,
+        "fields": {
+            "name": "Ali Dance",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 542,
+        "fields": {
+            "name": "Firm Stance",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 543,
+        "fields": {
+            "name": "Survive Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 544,
+        "fields": {
+            "name": "Endure Light",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 545,
+        "fields": {
+            "name": "Survive Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 546,
+        "fields": {
+            "name": "Endure Dark",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 547,
+        "fields": {
+            "name": "Survival Trick",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 548,
+        "fields": {
+            "name": "Arms Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 549,
+        "fields": {
+            "name": "Spell Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 550,
+        "fields": {
+            "name": "Almighty Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 551,
+        "fields": {
+            "name": "Almighty Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 552,
+        "fields": {
+            "name": "Magic Ability",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 553,
+        "fields": {
+            "name": "Magic Mastery",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 554,
+        "fields": {
+            "name": "Fast Heal",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 555,
+        "fields": {
+            "name": "Insta-Heal",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 556,
+        "fields": {
+            "name": "Resist Phys",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 557,
+        "fields": {
+            "name": "Null Phys",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 558,
+        "fields": {
+            "name": "Slash Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 559,
+        "fields": {
+            "name": "Strike Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 560,
+        "fields": {
+            "name": "Pierce Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 561,
+        "fields": {
+            "name": "Fire Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 562,
+        "fields": {
+            "name": "Ice Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 563,
+        "fields": {
+            "name": "Elec Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 564,
+        "fields": {
+            "name": "Wind Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 565,
+        "fields": {
+            "name": "Light Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 566,
+        "fields": {
+            "name": "Dark Driver",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 567,
+        "fields": {
+            "name": "Crit Rate Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 568,
+        "fields": {
+            "name": "Crit Rate Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 569,
+        "fields": {
+            "name": "Anti-Fire Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 570,
+        "fields": {
+            "name": "Anti-Ice Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 571,
+        "fields": {
+            "name": "Anti-Electric Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 572,
+        "fields": {
+            "name": "Anti-Wind Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 573,
+        "fields": {
+            "name": "Soul Shift",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 574,
+        "fields": {
+            "name": "Soul Chain",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 575,
+        "fields": {
+            "name": "Soul Link",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 576,
+        "fields": {
+            "name": "Shift Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 577,
+        "fields": {
+            "name": "Shift Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 578,
+        "fields": {
+            "name": "Drain Ability",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 579,
+        "fields": {
+            "name": "Single-Target Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 580,
+        "fields": {
+            "name": "Multi-Target Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 581,
+        "fields": {
+            "name": "Weakness Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 582,
+        "fields": {
+            "name": "Weakness Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 583,
+        "fields": {
+            "name": "Healing Master",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 584,
+        "fields": {
+            "name": "Healing Apex",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 585,
+        "fields": {
+            "name": "Critical Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 586,
+        "fields": {
+            "name": "Critical Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 587,
+        "fields": {
+            "name": "Buff Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 588,
+        "fields": {
+            "name": "Buff Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 589,
+        "fields": {
+            "name": "Ailment Burst",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 590,
+        "fields": {
+            "name": "Ailment Surge",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 591,
+        "fields": {
+            "name": "Weakness Buffer",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 592,
+        "fields": {
+            "name": "Weakness Mitigator",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 593,
+        "fields": {
+            "name": "Phys Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 594,
+        "fields": {
+            "name": "Phys Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 595,
+        "fields": {
+            "name": "Spirit Refresh",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 596,
+        "fields": {
+            "name": "Spirit Restore",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 597,
+        "fields": {
+            "name": "Auto Sukunda",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 598,
+        "fields": {
+            "name": "Auto Masukunda",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 599,
+        "fields": {
+            "name": "Auto Bolster",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 600,
+        "fields": {
+            "name": "Auto Heat Riser",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 601,
+        "fields": {
+            "name": "Sister Boost",
+            "type": "passive",
+            "range": "-"
+        }
+    },
+    {
+        "model": "personas.abilities",
+        "pk": 602,
+        "fields": {
+            "name": "Sister Amp",
+            "type": "passive",
+            "range": "-"
+        }
+    }
+]

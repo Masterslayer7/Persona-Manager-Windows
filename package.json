@@ -1,0 +1,43 @@
+{
+  "name": "persona-manager",
+  "version": "1.0.0",
+  "description": "A local Persona 3 Reload team manager app",
+  "author": "Yug Patel",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^35.1.5",
+    "electron-builder": "^26.0.12"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "cd frontend && npm run build",
+    "electron": "npm run build && electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder" 
+  },
+  "build": {
+  "appId": "com.yugPatel.personamanager",
+  "productName": "Persona Manager",
+  "directories": {
+    "buildResources": "assets",         
+    "output": "release"                
+  },
+  "files": [
+    "main.js",
+    "package.json",
+    "frontend/dist/**/*",            
+    "backend/**/*",                 
+    "!**/node_modules/*/{test,__tests__}/**" 
+  ],
+  "extraResources": [
+    {
+      "from": "backend/",
+      "to": "backend/"
+    }
+  ],
+  "win": {
+    "target": "nsis",                    
+    "icon": "assets/icon.ico"            
+  }
+}
+}

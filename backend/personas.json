@@ -1,0 +1,3840 @@
+[
+    {
+        "model": "personas.persona",
+        "pk": 1,
+        "fields": {
+            "id": null,
+            "name": "Abaddon",
+            "arcana": "Devil",
+            "level": 76,
+            "skills": {
+                "Virus Breath": 0.1,
+                "Evil Smile": 0.2,
+                "Deathbound": 0.3,
+                "Ailment Boost": 78,
+                "Vile Assault": 79,
+                "Maragidyne": 81,
+                "Drain Ice": 83
+            },
+            "resists": "dd-nw--wd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 2,
+        "fields": {
+            "id": null,
+            "name": "Alice",
+            "arcana": "Death",
+            "level": 68,
+            "skills": {
+                "Mudoon": 0.1,
+                "Maeigaon": 0.2,
+                "Spirit Drain": 0.3,
+                "Die For Me!": 69,
+                "Mudo Boost": 70,
+                "Endure Light": 72,
+                "Megidolaon": 74
+            },
+            "resists": "-------wr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 3,
+        "fields": {
+            "id": null,
+            "name": "Alilat",
+            "arcana": "Empress",
+            "level": 84,
+            "skills": {
+                "Mabufudyne": 0.1,
+                "Maziodyne": 0.2,
+                "Makarakarn": 0.3,
+                "Repel Fire": 86,
+                "Diamond Dust": 87,
+                "Inferno": 89,
+                "Repel Pierce": 91
+            },
+            "resists": "rr-wn-s-w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 4,
+        "fields": {
+            "id": null,
+            "name": "Ananta",
+            "arcana": "Aeon",
+            "level": 73,
+            "skills": {
+                "Vile Assault": 0.1,
+                "Dekunda": 0.2,
+                "Auto Maraku": 0.3,
+                "Evade Slash": 74,
+                "Resist Ailments": 75,
+                "Growth 3": 77,
+                "Drain Slash": 80
+            },
+            "resists": "w-s-dw-n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 5,
+        "fields": {
+            "id": null,
+            "name": "Anat",
+            "arcana": "Priestess",
+            "level": 53,
+            "skills": {
+                "Cosmic Flare": 0.1,
+                "Neuro Slash": 0.2,
+                "Diarahan": 0.3,
+                "Auto Maraku": 54,
+                "Samarecarm": 55,
+                "Mediarahan": 57,
+                "Enduring Soul": 59
+            },
+            "resists": "-n--sw----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 6,
+        "fields": {
+            "id": null,
+            "name": "Angel",
+            "arcana": "Justice",
+            "level": 4,
+            "skills": {
+                "Garu": 0.1,
+                "Sukukaja": 0.2,
+                "Single Shot": 5,
+                "Patra": 6,
+                "Resist Charm": 8
+            },
+            "resists": "-----s-sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 7,
+        "fields": {
+            "id": null,
+            "name": "Anubis",
+            "arcana": "Judgement",
+            "level": 40,
+            "skills": {
+                "Hamaon": 0.1,
+                "Mudoon": 0.2,
+                "Maeiga": 0.3,
+                "Makouga": 41,
+                "Makarakarn": 43,
+                "Growth 2": 44,
+                "Resist Dark": 45
+            },
+            "resists": "-------nn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 8,
+        "fields": {
+            "id": null,
+            "name": "Apsaras",
+            "arcana": "Priestess",
+            "level": 2,
+            "skills": {
+                "Bufu": 0.1,
+                "Baisudi": 3,
+                "Sukunda": 4,
+                "Patra": 5,
+                "Resist Freeze": 7,
+                "Cadenza": 5217
+            },
+            "resists": "---ws-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 9,
+        "fields": {
+            "id": null,
+            "name": "Ara Mitama",
+            "arcana": "Chariot",
+            "level": 6,
+            "skills": {
+                "Bash": 0.1,
+                "Rakukaja": 0.2,
+                "Provoke": 0.3,
+                "Agi": 7,
+                "Rakunda": 8,
+                "Rage Boost": 10
+            },
+            "resists": "-s-s--w---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 10,
+        "fields": {
+            "id": null,
+            "name": "Arahabaki",
+            "arcana": "Hermit",
+            "level": 68,
+            "skills": {
+                "Herculean Strike": 0.1,
+                "Makarakarn": 0.2,
+                "Null Charm": 0.3,
+                "Repel Dark": 70,
+                "Auto Maraku": 71,
+                "Virus Breath": 72,
+                "Repel Strike": 76
+            },
+            "resists": "rwr-w--sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 11,
+        "fields": {
+            "id": null,
+            "name": "Archangel",
+            "arcana": "Justice",
+            "level": 10,
+            "skills": {
+                "Kouha": 0.1,
+                "Single Shot": 0.2,
+                "Baisudi": 0.3,
+                "Sukukaja": 11,
+                "Holy Arrow": 13,
+                "Apt Pupil": 15
+            },
+            "resists": "s----w-nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 12,
+        "fields": {
+            "id": null,
+            "name": "Arsene",
+            "arcana": "Fool",
+            "level": 23,
+            "skills": {
+                "Eiga": 0.1,
+                "Fatal End": 0.2,
+                "Dark Driver": 0.3,
+                "Evil Smile": 24,
+                "Vacuum Slash": 25,
+                "Maeiga": 27,
+                "Survival Trick": 29
+            },
+            "resists": "-------ws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 13,
+        "fields": {
+            "id": null,
+            "name": "Astarte",
+            "arcana": "Empress",
+            "level": 54,
+            "skills": {
+                "One-shot Kill": 0.1,
+                "Tetrakarn": 0.2,
+                "Makarakarn": 0.3,
+                "Insta-Heal": 55,
+                "Amrita Shower": 56,
+                "Single-Target Boost": 58,
+                "Myriad Arrows": 60
+            },
+            "resists": "--nw----s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 14,
+        "fields": {
+            "id": null,
+            "name": "Asura",
+            "arcana": "Sun",
+            "level": 85,
+            "skills": {
+                "Agidyne": 0.1,
+                "Akasha Arts": 0.2,
+                "Unshaken Will": 0.3,
+                "Heat Riser": 86,
+                "Strike Amp": 88,
+                "God's Hand": 90,
+                "Firm Stance": 91
+            },
+            "resists": "-n-d--wn--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 15,
+        "fields": {
+            "id": null,
+            "name": "Atavaka",
+            "arcana": "Strength",
+            "level": 72,
+            "skills": {
+                "Brave Blade": 0.1,
+                "Maragidyne": 0.2,
+                "Null Dizzy": 0.3,
+                "God's Hand": 74,
+                "Auto Mataru": 75,
+                "Mediarahan": 77,
+                "Firm Stance": 79
+            },
+            "resists": "--n-w--n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 16,
+        "fields": {
+            "id": null,
+            "name": "Atropos",
+            "arcana": "Fortune",
+            "level": 56,
+            "skills": {
+                "Magarula": 0.1,
+                "Marakunda": 0.2,
+                "Dekunda": 0.3,
+                "Ziodyne": 57,
+                "Garudyne": 59,
+                "Wind Amp": 61,
+                "Soul Link": 62
+            },
+            "resists": "---w--nss-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 17,
+        "fields": {
+            "id": null,
+            "name": "Attis",
+            "arcana": "Hanged",
+            "level": 73,
+            "skills": {
+                "Mahamaon": 0.1,
+                "Recarmdra": 0.2,
+                "Samarecarm": 0.3,
+                "Survival Trick": 74,
+                "Endure": 75,
+                "Megidolaon": 77,
+                "Enduring Soul": 79
+            },
+            "resists": "sssn--rww-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 18,
+        "fields": {
+            "id": null,
+            "name": "Baal Zebul",
+            "arcana": "Moon",
+            "level": 72,
+            "skills": {
+                "Magarudyne": 0.1,
+                "Eigaon": 0.2,
+                "Megidola": 0.3,
+                "Matarukaja": 73,
+                "Ziodyne": 74,
+                "Maeigaon": 76,
+                "Panta Rhei": 78
+            },
+            "resists": "---wssswr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 19,
+        "fields": {
+            "id": null,
+            "name": "Baphomet",
+            "arcana": "Devil",
+            "level": 30,
+            "skills": {
+                "Maragi": 0.1,
+                "Eiga": 0.2,
+                "Dodge Fire": 0.3,
+                "Fire Boost": 31,
+                "Maeiga": 33,
+                "Dark Boost": 34,
+                "Endure Light": 36
+            },
+            "resists": "---s--wwn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 20,
+        "fields": {
+            "id": null,
+            "name": "Barong",
+            "arcana": "Emperor",
+            "level": 63,
+            "skills": {
+                "Ziodyne": 0.1,
+                "Elec Boost": 0.2,
+                "Elec Break": 0.3,
+                "Maziodyne": 64,
+                "Eerie Sound": 65,
+                "Auto Masuku": 67,
+                "Drain Elec": 69
+            },
+            "resists": "-----nwn--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 21,
+        "fields": {
+            "id": null,
+            "name": "Beelzebub",
+            "arcana": "Devil",
+            "level": 81,
+            "skills": {
+                "Mamudoon": 0.1,
+                "Maeigaon": 0.2,
+                "Evil Smile": 0.3,
+                "Demonic Decree": 82,
+                "Megidolaon": 84,
+                "Concentrate": 85,
+                "Dark Amp": 87
+            },
+            "resists": "-n-w-nnwr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 22,
+        "fields": {
+            "id": null,
+            "name": "Belphegor",
+            "arcana": "Emperor",
+            "level": 53,
+            "skills": {
+                "Mabufula": 0.1,
+                "Maeiga": 0.2,
+                "Dodge Light": 0.3,
+                "Mudoon": 54,
+                "Stagnant Air": 55,
+                "Endure Light": 57,
+                "Maeigaon": 59
+            },
+            "resists": "---wss-wd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 23,
+        "fields": {
+            "id": null,
+            "name": "Berith",
+            "arcana": "Hierophant",
+            "level": 13,
+            "skills": {
+                "Single Shot": 0.1,
+                "Agi": 0.2,
+                "Rakukaja": 0.3,
+                "Power Slash": 14,
+                "Dodge Fire": 16,
+                "Assault Dive": 18
+            },
+            "resists": "---s-ws---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 24,
+        "fields": {
+            "id": null,
+            "name": "Bishamonten",
+            "arcana": "Tower",
+            "level": 60,
+            "skills": {
+                "Maragidyne": 0.1,
+                "Vile Assault": 0.2,
+                "Pierce Boost": 0.3,
+                "Myriad Arrows": 61,
+                "Crit Rate Amp": 62,
+                "Primal Force": 64,
+                "Pierce Amp": 66
+            },
+            "resists": "-n-nw--s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 25,
+        "fields": {
+            "id": null,
+            "name": "Black Frost",
+            "arcana": "Fool",
+            "level": 37,
+            "skills": {
+                "Maeiga": 0.1,
+                "Bufula": 0.2,
+                "Matarukaja": 0.3,
+                "Agidyne": 38,
+                "Dark Boost": 39,
+                "Bufudyne": 40,
+                "Fast Heal": 42,
+                "Resist Light": 43,
+                "King and I": 5217
+            },
+            "resists": "---nd--wr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 26,
+        "fields": {
+            "id": null,
+            "name": "Byakko",
+            "arcana": "Temperance",
+            "level": 63,
+            "skills": {
+                "Mabufula": 0.1,
+                "Freeze Boost": 0.2,
+                "Heat Wave": 0.3,
+                "Soul Shift": 64,
+                "Evade Fire": 66,
+                "Mabufudyne": 67,
+                "Enduring Soul": 69
+            },
+            "resists": "---wnr----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 27,
+        "fields": {
+            "id": null,
+            "name": "Captain Kidd",
+            "arcana": "Chariot",
+            "level": 18,
+            "skills": {
+                "Mazio": 0.1,
+                "Assault Dive": 0.2,
+                "Elec Driver": 0.3,
+                "Tarukaja": 19,
+                "Shock Boost": 20,
+                "Zionga": 21,
+                "Swift Strike": 23
+            },
+            "resists": "-----sw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 28,
+        "fields": {
+            "id": null,
+            "name": "Carmen",
+            "arcana": "Lovers",
+            "level": 19,
+            "skills": {
+                "Agilao": 0.1,
+                "Tarunda": 0.2,
+                "Fire Driver": 0.3,
+                "Sexy Dance": 20,
+                "Diarama": 21,
+                "Charm Boost": 22,
+                "Maragion": 24
+            },
+            "resists": "---sw-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 29,
+        "fields": {
+            "id": null,
+            "name": "Cendrillon",
+            "arcana": "Star",
+            "level": 36,
+            "skills": {
+                "Neuro Slash": 0.1,
+                "Makouga": 0.2,
+                "Slash Driver": 0.3,
+                "Revolution": 37,
+                "Null Dizzy": 38,
+                "Vidyaraja's Blessing": 40,
+                "Tempest Slash": 42
+            },
+            "resists": "-------sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 30,
+        "fields": {
+            "id": null,
+            "name": "Chernobog",
+            "arcana": "Moon",
+            "level": 56,
+            "skills": {
+                "Tempest Slash": 0.1,
+                "Maeiga": 0.2,
+                "Apt Pupil": 0.3,
+                "Eigaon": 57,
+                "Poison Mist": 58,
+                "Shift Amp": 60,
+                "Brave Blade": 61
+            },
+            "resists": "n-sw----d-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 31,
+        "fields": {
+            "id": null,
+            "name": "Chi You",
+            "arcana": "Tower",
+            "level": 86,
+            "skills": {
+                "Primal Force": 0.1,
+                "Vorpal Blade": 0.2,
+                "Shift Amp": 0.3,
+                "Akasha Arts": 88,
+                "Charge": 89,
+                "Arms Master": 91,
+                "Drain Strike": 93
+            },
+            "resists": "s-s--w----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 32,
+        "fields": {
+            "id": null,
+            "name": "Chimera",
+            "arcana": "Chariot",
+            "level": 9,
+            "skills": {
+                "Power Slash": 0.1,
+                "Bewilder": 0.2,
+                "Agi": 10,
+                "Sonic Punch": 11,
+                "Sukunda": 12,
+                "Auto Tarukaja": 14
+            },
+            "resists": "-s-s----w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 33,
+        "fields": {
+            "id": null,
+            "name": "Clotho",
+            "arcana": "Fortune",
+            "level": 37,
+            "skills": {
+                "Garula": 0.1,
+                "Wind Break": 0.2,
+                "Rakunda": 0.3,
+                "Masukunda": 38,
+                "Me Patra": 39,
+                "Soul Chain": 40,
+                "Samarecarm": 42
+            },
+            "resists": "---w--n---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 34,
+        "fields": {
+            "id": null,
+            "name": "Cu Chulainn",
+            "arcana": "Tower",
+            "level": 40,
+            "skills": {
+                "Torrent Shot": 0.1,
+                "Matarukaja": 0.2,
+                "Dekaja": 0.3,
+                "Charge": 41,
+                "Fast Heal": 42,
+                "Magarula": 44,
+                "Myriad Arrows": 45,
+                "Shift Amp": 46
+            },
+            "resists": "--s-wsr---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 35,
+        "fields": {
+            "id": null,
+            "name": "Cybele",
+            "arcana": "Lovers",
+            "level": 67,
+            "skills": {
+                "Makougaon": 0.1,
+                "Garudyne": 0.2,
+                "Diarahan": 0.3,
+                "Mediarahan": 68,
+                "Auto Maraku": 69,
+                "Light Amp": 71,
+                "Spell Master": 73
+            },
+            "resists": "---snw-s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 36,
+        "fields": {
+            "id": null,
+            "name": "Daisoujou",
+            "arcana": "Hierophant",
+            "level": 59,
+            "skills": {
+                "Hamaon": 0.1,
+                "Diarahan": 0.2,
+                "Growth 3": 0.3,
+                "Samsara": 60,
+                "Invigorate 3": 61,
+                "Hama Boost": 63,
+                "Null Dark": 65
+            },
+            "resists": "-------nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 37,
+        "fields": {
+            "id": null,
+            "name": "Dakini",
+            "arcana": "Hermit",
+            "level": 38,
+            "skills": {
+                "Herculean Strike": 0.1,
+                "Counterstrike": 0.2,
+                "Auto Tarukaja": 39,
+                "Getsu-ei": 40,
+                "Strike Boost": 41,
+                "High Counter": 43
+            },
+            "resists": "-s-sw-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 38,
+        "fields": {
+            "id": null,
+            "name": "Decarabia",
+            "arcana": "Fool",
+            "level": 54,
+            "skills": {
+                "Megido": 0.1,
+                "Tetrakarn": 0.2,
+                "Invigorate 2": 0.3,
+                "Agidyne": 55,
+                "Fast Heal": 56,
+                "Megidola": 58,
+                "Null Slash": 60,
+                "Best Friends": 5217
+            },
+            "resists": "w---------"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 39,
+        "fields": {
+            "id": null,
+            "name": "Dionysus",
+            "arcana": "Moon",
+            "level": 49,
+            "skills": {
+                "Ziodyne": 0.1,
+                "Marakukaja": 0.2,
+                "Makarakarn": 0.3,
+                "Resist Slash": 50,
+                "Mazionga": 51,
+                "Heat Wave": 52,
+                "Regenerate 3": 54
+            },
+            "resists": "-s---rw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 40,
+        "fields": {
+            "id": null,
+            "name": "Dominion",
+            "arcana": "Justice",
+            "level": 42,
+            "skills": {
+                "Makouga": 0.1,
+                "Hamaon": 0.2,
+                "Infuriate": 0.3,
+                "Hama Boost": 43,
+                "Samarecarm": 44,
+                "Light Boost": 46,
+                "Kougaon": 47
+            },
+            "resists": "-----wsnw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 41,
+        "fields": {
+            "id": null,
+            "name": "Eligor",
+            "arcana": "Tower",
+            "level": 31,
+            "skills": {
+                "Revolution": 0.1,
+                "Torrent Shot": 0.2,
+                "Cruel Attack": 32,
+                "Pierce Boost": 33,
+                "Maragion": 35,
+                "Life Aid": 36
+            },
+            "resists": "--sn-w--s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 42,
+        "fields": {
+            "id": null,
+            "name": "Flauros",
+            "arcana": "Hierophant",
+            "level": 33,
+            "skills": {
+                "Agilao": 0.1,
+                "Swift Strike": 0.2,
+                "Auto Sukukaja": 0.3,
+                "Crit Rate Boost": 34,
+                "Apt Pupil": 35,
+                "Herculean Strike": 36,
+                "Evade Wind": 38
+            },
+            "resists": "---nw-s---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 43,
+        "fields": {
+            "id": null,
+            "name": "Forneus",
+            "arcana": "Emperor",
+            "level": 7,
+            "skills": {
+                "Bufu": 0.1,
+                "Bash": 0.2,
+                "Tarukaja": 0.3,
+                "Single Shot": 9,
+                "Sharp Student": 10,
+                "Dodge Ice": 12,
+                "Best Friends": 5217
+            },
+            "resists": "----sw----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 44,
+        "fields": {
+            "id": null,
+            "name": "Fortuna",
+            "arcana": "Fortune",
+            "level": 15,
+            "skills": {
+                "Garu": 0.1,
+                "Bufu": 0.2,
+                "Patra": 0.3,
+                "Magaru": 16,
+                "Dodge Wind": 17,
+                "Rakukaja": 18,
+                "Wind Boost": 20
+            },
+            "resists": "---n-wn---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 45,
+        "fields": {
+            "id": null,
+            "name": "Futsunushi",
+            "arcana": "Magician",
+            "level": 74,
+            "skills": {
+                "Vorpal Blade": 0.1,
+                "Bloody Charge": 0.2,
+                "Apt Pupil": 0.3,
+                "Matarukaja": 75,
+                "Sharp Student": 76,
+                "Brave Blade": 78,
+                "Unshaken Will": 81
+            },
+            "resists": "ns---s--w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 46,
+        "fields": {
+            "id": null,
+            "name": "Gabriel",
+            "arcana": "Empress",
+            "level": 62,
+            "skills": {
+                "Mabufudyne": 0.1,
+                "Ziodyne": 0.2,
+                "Diarahan": 0.3,
+                "Divine Judgment": 64,
+                "Evade Wind": 65,
+                "Ice Amp": 66,
+                "Diamond Dust": 68
+            },
+            "resists": "----d-wnw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 47,
+        "fields": {
+            "id": null,
+            "name": "Ganesha",
+            "arcana": "Star",
+            "level": 51,
+            "skills": {
+                "Deathbound": 0.1,
+                "Garudyne": 0.2,
+                "Revolution": 0.3,
+                "Gigantic Fist": 52,
+                "Charge": 54,
+                "Endure": 55,
+                "Repel Pierce": 57
+            },
+            "resists": "--n---d-w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 48,
+        "fields": {
+            "id": null,
+            "name": "Ganga",
+            "arcana": "Priestess",
+            "level": 41,
+            "skills": {
+                "Tentarafoo": 0.1,
+                "Confuse Boost": 0.2,
+                "Media": 0.3,
+                "Neuro Slash": 42,
+                "Bufula": 43,
+                "Diarama": 44,
+                "Endure Dark": 46
+            },
+            "resists": "--sws--sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 49,
+        "fields": {
+            "id": null,
+            "name": "Garuda",
+            "arcana": "Star",
+            "level": 64,
+            "skills": {
+                "Garudyne": 0.1,
+                "Tentarafoo": 0.2,
+                "Masukukaja": 0.3,
+                "Amrita Shower": 65,
+                "Magarudyne": 67,
+                "Panta Rhei": 70
+            },
+            "resists": "ss-swwsnw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 50,
+        "fields": {
+            "id": null,
+            "name": "Genbu",
+            "arcana": "Temperance",
+            "level": 30,
+            "skills": {
+                "Dekunda": 0.1,
+                "Auto Rakukaja": 0.2,
+                "Null Confuse": 0.3,
+                "Resist Strike": 31,
+                "Null Rage": 32,
+                "Anti-Ice Master": 33,
+                "Resist Wind": 35
+            },
+            "resists": "----nw----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 51,
+        "fields": {
+            "id": null,
+            "name": "Girimekhala",
+            "arcana": "Moon",
+            "level": 39,
+            "skills": {
+                "Cruel Attack": 0.1,
+                "Mudoon": 0.2,
+                "Marakunda": 0.3,
+                "Virus Breath": 40,
+                "Heat Wave": 42,
+                "Mamudoon": 44,
+                "Repel Slash": 46
+            },
+            "resists": "r-r---ww--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 52,
+        "fields": {
+            "id": null,
+            "name": "Goemon",
+            "arcana": "Emperor",
+            "level": 27,
+            "skills": {
+                "Bufula": 0.1,
+                "Getsu-ei": 0.2,
+                "Ice Driver": 0.3,
+                "Shift Boost": 28,
+                "Counterstrike": 29,
+                "Blade of Fury": 31,
+                "Mabufula": 32
+            },
+            "resists": "---ws-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 53,
+        "fields": {
+            "id": null,
+            "name": "Gurulu",
+            "arcana": "Moon",
+            "level": 14,
+            "skills": {
+                "Eiha": 0.1,
+                "Power Slash": 0.2,
+                "Growth 1": 0.3,
+                "Raging Tiger": 15,
+                "Auto Sukukaja": 16,
+                "Poison Mist": 18,
+                "Poison Boost": 19
+            },
+            "resists": "---w--swn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 54,
+        "fields": {
+            "id": null,
+            "name": "Hanuman",
+            "arcana": "Strength",
+            "level": 36,
+            "skills": {
+                "Getsu-ei": 0.1,
+                "Blade of Fury": 0.2,
+                "Shift Boost": 0.3,
+                "Recarm": 37,
+                "Fatal End": 38,
+                "Evade Slash": 40,
+                "Endure": 41
+            },
+            "resists": "s--s--w---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 55,
+        "fields": {
+            "id": null,
+            "name": "Hariti",
+            "arcana": "Empress",
+            "level": 48,
+            "skills": {
+                "Mediarama": 0.1,
+                "Samarecarm": 0.2,
+                "Me Patra": 0.3,
+                "Diarahan": 50,
+                "Amrita Shower": 52,
+                "Invigorate 3": 54
+            },
+            "resists": "----dw-d--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 56,
+        "fields": {
+            "id": null,
+            "name": "Hecate",
+            "arcana": "Lovers",
+            "level": 42,
+            "skills": {
+                "Blazing Hell": 0.1,
+                "Sexy Dance": 0.2,
+                "Matarunda": 0.3,
+                "Stagnant Air": 43,
+                "Agidyne": 44,
+                "Concentrate": 46,
+                "Drain Fire": 48
+            },
+            "resists": "---nws----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 57,
+        "fields": {
+            "id": null,
+            "name": "Hecatoncheires",
+            "arcana": "Hanged",
+            "level": 47,
+            "skills": {
+                "Vile Assault": 0.1,
+                "Evade Strike": 0.2,
+                "Regenerate 2": 0.3,
+                "Endure": 48,
+                "Recarmdra": 49,
+                "Heat Wave": 51,
+                "Auto Maraku": 53
+            },
+            "resists": "-ss-ss-ws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 58,
+        "fields": {
+            "id": null,
+            "name": "Helel",
+            "arcana": "Star",
+            "level": 88,
+            "skills": {
+                "Makougaon": 0.1,
+                "Heat Riser": 0.2,
+                "Salvation": 0.3,
+                "Morning Star": 90,
+                "Life Aid": 92,
+                "Spell Master": 94,
+                "Almighty Boost": 95,
+                "Armageddon": 5217
+            },
+            "resists": "sss-w--dd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 59,
+        "fields": {
+            "id": null,
+            "name": "Hell Biker",
+            "arcana": "Hanged",
+            "level": 65,
+            "skills": {
+                "Maragidyne": 0.1,
+                "Eigaon": 0.2,
+                "Life Aid": 0.3,
+                "Bloody Charge": 66,
+                "Maeigaon": 68,
+                "Evade Light": 70,
+                "Enduring Soul": 71
+            },
+            "resists": "---r--rw--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 60,
+        "fields": {
+            "id": null,
+            "name": "High Pixie",
+            "arcana": "Priestess",
+            "level": 20,
+            "skills": {
+                "Arrow Rain": 0.1,
+                "Mabufu": 0.2,
+                "Media": 0.3,
+                "Bufula": 22,
+                "Tarukaja": 23,
+                "Dodge Wind": 25
+            },
+            "resists": "----n-w---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 61,
+        "fields": {
+            "id": null,
+            "name": "Horus",
+            "arcana": "Sun",
+            "level": 67,
+            "skills": {
+                "Mahamaon": 0.1,
+                "Growth 3": 0.2,
+                "Auto Masuku": 0.3,
+                "Samarecarm": 68,
+                "Kougaon": 70,
+                "Amrita Shower": 71,
+                "Evade Dark": 73
+            },
+            "resists": "----sn-rw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 62,
+        "fields": {
+            "id": null,
+            "name": "Houou",
+            "arcana": "Star",
+            "level": 70,
+            "skills": {
+                "Maragidyne": 0.1,
+                "Samarecarm": 0.2,
+                "Mediarama": 0.3,
+                "Divine Grace": 71,
+                "Regenerate 3": 72,
+                "Null Pierce": 74,
+                "Salvation": 77
+            },
+            "resists": "--wdswnd--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 63,
+        "fields": {
+            "id": null,
+            "name": "Hua Po",
+            "arcana": "Magician",
+            "level": 19,
+            "skills": {
+                "Maragi": 0.1,
+                "Baisudi": 0.2,
+                "Rakunda": 0.3,
+                "Agilao": 20,
+                "Resist Freeze": 21,
+                "Fire Boost": 23
+            },
+            "resists": "---nw---n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 64,
+        "fields": {
+            "id": null,
+            "name": "Incubus",
+            "arcana": "Devil",
+            "level": 37,
+            "skills": {
+                "Life Drain": 0.1,
+                "Evil Touch": 0.2,
+                "Eiga": 0.3,
+                "Stagnant Air": 38,
+                "Spirit Drain": 39,
+                "Maragion": 40,
+                "Drain Ability": 42
+            },
+            "resists": "w--n---wn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 65,
+        "fields": {
+            "id": null,
+            "name": "Inugami",
+            "arcana": "Hanged",
+            "level": 10,
+            "skills": {
+                "Poisma": 0.1,
+                "Foul Breath": 0.2,
+                "Poison Boost": 11,
+                "Maragi": 12,
+                "Media": 14
+            },
+            "resists": "---n--w-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 66,
+        "fields": {
+            "id": null,
+            "name": "Izanagi",
+            "arcana": "Fool",
+            "level": 46,
+            "skills": {
+                "Cross Slash": 0.1,
+                "Ziodyne": 0.2,
+                "Marakukaja": 0.3,
+                "Matarukaja": 47,
+                "Blade of Fury": 48,
+                "Evade Slash": 50,
+                "Soul Shift": 52
+            },
+            "resists": "-----sw-n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 67,
+        "fields": {
+            "id": null,
+            "name": "Jack Frost",
+            "arcana": "Magician",
+            "level": 8,
+            "skills": {
+                "Bufu": 0.1,
+                "Pulinpa": 0.2,
+                "Mabufu": 10,
+                "Sonic Punch": 11,
+                "Freeze Boost": 12,
+                "Ice Boost": 13,
+                "Jack Brothers": 5217
+            },
+            "resists": "---wn-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 68,
+        "fields": {
+            "id": null,
+            "name": "Jack-o'-Lantern",
+            "arcana": "Magician",
+            "level": 15,
+            "skills": {
+                "Agi": 0.1,
+                "Maragi": 0.2,
+                "Provoke": 0.3,
+                "Rage Boost": 17,
+                "Dodge Ice": 19,
+                "Agilao": 21,
+                "Jack Brothers": 5217
+            },
+            "resists": "---nw-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 69,
+        "fields": {
+            "id": null,
+            "name": "Jatayu",
+            "arcana": "Sun",
+            "level": 55,
+            "skills": {
+                "Garudyne": 0.1,
+                "Magarula": 0.2,
+                "Growth 3": 0.3,
+                "Masukunda": 56,
+                "Evade Pierce": 58,
+                "Amrita Shower": 59,
+                "Magarudyne": 61
+            },
+            "resists": "--wsswds--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 70,
+        "fields": {
+            "id": null,
+            "name": "Jikokuten",
+            "arcana": "Strength",
+            "level": 29,
+            "skills": {
+                "Zan-ei": 0.1,
+                "Auto Sukukaja": 0.2,
+                "Crit Rate Boost": 0.3,
+                "Getsu-ei": 31,
+                "Revolution": 32,
+                "Slash Boost": 34,
+                "Endure Dark": 35
+            },
+            "resists": "s--wr--s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 71,
+        "fields": {
+            "id": null,
+            "name": "Johanna",
+            "arcana": "Priestess",
+            "level": 28,
+            "skills": {
+                "Herculean Strike": 0.1,
+                "Diarama": 0.2,
+                "Strike Driver": 0.3,
+                "Marakukaja": 29,
+                "Dekunda": 30,
+                "Megido": 32,
+                "Gigantic Fist": 33
+            },
+            "resists": "-s---w----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 72,
+        "fields": {
+            "id": null,
+            "name": "Kaguya",
+            "arcana": "Moon",
+            "level": 34,
+            "skills": {
+                "Shining Arrows": 0.1,
+                "Mediarama": 0.2,
+                "Divine Grace": 0.3,
+                "Multi-Target Boost": 35,
+                "High Counter": 37,
+                "Amrita Shower": 38,
+                "Diarahan": 39
+            },
+            "resists": "---w--snn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 73,
+        "fields": {
+            "id": null,
+            "name": "Kaiwan",
+            "arcana": "Star",
+            "level": 42,
+            "skills": {
+                "Virus Breath": 0.1,
+                "Eerie Sound": 0.2,
+                "Spirit Drain": 0.3,
+                "Vile Assault": 43,
+                "Evil Smile": 44,
+                "Invigorate 2": 46,
+                "Evade Pierce": 47
+            },
+            "resists": "--wss---s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 74,
+        "fields": {
+            "id": null,
+            "name": "Kali",
+            "arcana": "Strength",
+            "level": 63,
+            "skills": {
+                "Heat Wave": 0.1,
+                "Deathbound": 0.2,
+                "Marakunda": 0.3,
+                "Brave Blade": 64,
+                "Charge": 66,
+                "High Counter": 67,
+                "Vorpal Blade": 70
+            },
+            "resists": "r--s--w---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 75,
+        "fields": {
+            "id": null,
+            "name": "Kamu Susano-o",
+            "arcana": "Emperor",
+            "level": 47,
+            "skills": {
+                "Ice Age": 0.1,
+                "Tempest Slash": 0.2,
+                "Masukukaja": 0.3,
+                "Bufudyne": 48,
+                "High Counter": 49,
+                "Shift Amp": 51,
+                "Vorpal Blade": 53
+            },
+            "resists": "---wn-s---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 76,
+        "fields": {
+            "id": null,
+            "name": "Kikuri-Hime",
+            "arcana": "Priestess",
+            "level": 61,
+            "skills": {
+                "Bufudyne": 0.1,
+                "Mabufula": 0.2,
+                "Mediarama": 0.3,
+                "Amrita Shower": 62,
+                "Marakukaja": 63,
+                "Samarecarm": 65,
+                "Mediarahan": 67
+            },
+            "resists": "---wn-ss--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 77,
+        "fields": {
+            "id": null,
+            "name": "King Frost",
+            "arcana": "Emperor",
+            "level": 34,
+            "skills": {
+                "Bufula": 0.1,
+                "Freeze Boost": 0.2,
+                "Rakukaja": 0.3,
+                "Mabufula": 35,
+                "Ice Break": 36,
+                "Marakukaja": 37,
+                "Null Ice": 39,
+                "King and I": 5217
+            },
+            "resists": "---wd-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 78,
+        "fields": {
+            "id": null,
+            "name": "Kohryu",
+            "arcana": "Hierophant",
+            "level": 71,
+            "skills": {
+                "Makougaon": 0.1,
+                "Mediarahan": 0.2,
+                "Invigorate 3": 0.3,
+                "Concentrate": 73,
+                "Makarakarn": 74,
+                "Tetrakarn": 75,
+                "Spell Master": 77
+            },
+            "resists": "-----r-n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 79,
+        "fields": {
+            "id": null,
+            "name": "Koumokuten",
+            "arcana": "Chariot",
+            "level": 52,
+            "skills": {
+                "Herculean Strike": 0.1,
+                "Magarula": 0.2,
+                "Masukukaja": 0.3,
+                "Gigantic Fist": 53,
+                "Auto Tarukaja": 54,
+                "Vile Assault": 56,
+                "Enduring Soul": 57
+            },
+            "resists": "-ss--wn---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 80,
+        "fields": {
+            "id": null,
+            "name": "Kumbhanda",
+            "arcana": "Hermit",
+            "level": 61,
+            "skills": {
+                "Garudyne": 0.1,
+                "Poison Arrow": 0.2,
+                "Poison Boost": 0.3,
+                "Dekunda": 62,
+                "Myriad Arrows": 64,
+                "Magarudyne": 65,
+                "Insta-Heal": 67
+            },
+            "resists": "---d--nws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 81,
+        "fields": {
+            "id": null,
+            "name": "Kurama Tengu",
+            "arcana": "Hermit",
+            "level": 46,
+            "skills": {
+                "Magarula": 0.1,
+                "Masukunda": 0.2,
+                "Dodge Pierce": 0.3,
+                "Tentarafoo": 47,
+                "Garudyne": 49,
+                "Null Dizzy": 51
+            },
+            "resists": "-----wd-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 82,
+        "fields": {
+            "id": null,
+            "name": "Kushi Mitama",
+            "arcana": "Fortune",
+            "level": 28,
+            "skills": {
+                "Recarm": 0.1,
+                "Garula": 0.2,
+                "Magaru": 0.3,
+                "Wind Break": 29,
+                "Regenerate 2": 30,
+                "Magarula": 32,
+                "Marakunda": 33
+            },
+            "resists": "---w-sn---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 83,
+        "fields": {
+            "id": null,
+            "name": "Lachesis",
+            "arcana": "Fortune",
+            "level": 44,
+            "skills": {
+                "Magarula": 0.1,
+                "Masukukaja": 0.2,
+                "Makarakarn": 0.3,
+                "Soul Chain": 45,
+                "Mediarama": 46,
+                "Marakunda": 47,
+                "Evade Elec": 49
+            },
+            "resists": "----swn---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 84,
+        "fields": {
+            "id": null,
+            "name": "Lakshmi",
+            "arcana": "Fortune",
+            "level": 73,
+            "skills": {
+                "Diarahan": 0.1,
+                "Amrita Shower": 0.2,
+                "Bufudyne": 0.3,
+                "Soul Link": 74,
+                "Sexy Dance": 75,
+                "Mabufudyne": 77,
+                "Salvation": 80
+            },
+            "resists": "---wn--n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 85,
+        "fields": {
+            "id": null,
+            "name": "Lamia",
+            "arcana": "Hermit",
+            "level": 25,
+            "skills": {
+                "Agilao": 0.1,
+                "Poisma": 0.2,
+                "Resist Charm": 0.3,
+                "Poison Boost": 27,
+                "Poison Mist": 28,
+                "Stagnant Air": 30
+            },
+            "resists": "-w-n-s--s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 86,
+        "fields": {
+            "id": null,
+            "name": "Leanan Sidhe",
+            "arcana": "Empress",
+            "level": 21,
+            "skills": {
+                "Media": 0.1,
+                "Diarama": 0.2,
+                "Patra": 0.3,
+                "Spirit Drain": 22,
+                "Me Patra": 24,
+                "Marin Karin": 25,
+                "Null Charm": 26
+            },
+            "resists": "---w--s---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 87,
+        "fields": {
+            "id": null,
+            "name": "Legion",
+            "arcana": "Fool",
+            "level": 26,
+            "skills": {
+                "Assault Dive": 0.1,
+                "Pulinpa": 0.2,
+                "Rebellion": 0.3,
+                "Null Distress": 27,
+                "Sexy Dance": 28,
+                "Confuse Boost": 30,
+                "Resist Pierce": 31
+            },
+            "resists": "ssws---w--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 88,
+        "fields": {
+            "id": null,
+            "name": "Lilim",
+            "arcana": "Devil",
+            "level": 8,
+            "skills": {
+                "Agi": 0.1,
+                "Zio": 0.2,
+                "Marin Karin": 9,
+                "Life Drain": 11,
+                "Mazio": 13
+            },
+            "resists": "-----s-ws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 89,
+        "fields": {
+            "id": null,
+            "name": "Lilith",
+            "arcana": "Devil",
+            "level": 65,
+            "skills": {
+                "Mabufudyne": 0.1,
+                "Maziodyne": 0.2,
+                "Sexy Dance": 0.3,
+                "Megidola": 66,
+                "Makarakarn": 68,
+                "Demonic Decree": 70,
+                "Drain Wind": 72
+            },
+            "resists": "---wsd--n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 90,
+        "fields": {
+            "id": null,
+            "name": "Loa",
+            "arcana": "Death",
+            "level": 33,
+            "skills": {
+                "Mamudo": 0.1,
+                "Life Drain": 0.2,
+                "Maeiha": 0.3,
+                "Survive Light": 34,
+                "Zionga": 36,
+                "Marakunda": 37,
+                "Mudo Boost": 38
+            },
+            "resists": "-----s-ws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 91,
+        "fields": {
+            "id": null,
+            "name": "Loki",
+            "arcana": "Fool",
+            "level": 69,
+            "skills": {
+                "Agidyne": 0.1,
+                "Bufudyne": 0.2,
+                "Ziodyne": 0.3,
+                "Garudyne": 0.4,
+                "Megidola": 72,
+                "Single-Target Boost": 73,
+                "Soul Shift": 74,
+                "Spell Master": 76,
+                "Trickster": 5217
+            },
+            "resists": "---wn-d-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 92,
+        "fields": {
+            "id": null,
+            "name": "Loki A",
+            "arcana": "Justice",
+            "level": 60,
+            "skills": {
+                "Rebellion Blade": 0.1,
+                "Eigaon": 0.2,
+                "Resist Ailments": 0.3,
+                "Debilitate": 61,
+                "Evade Light": 62,
+                "Akasha Arts": 64,
+                "Megidolaon": 66
+            },
+            "resists": "---ss--wn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 93,
+        "fields": {
+            "id": null,
+            "name": "Lucifer",
+            "arcana": "Judgement",
+            "level": 89,
+            "skills": {
+                "Megidolaon": 0.1,
+                "Debilitate": 0.2,
+                "Brave Blade": 0.3,
+                "Inferno": 90,
+                "Panta Rhei": 92,
+                "Diamond Dust": 94,
+                "Resist Phys": 96
+            },
+            "resists": "---d-d--r-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 94,
+        "fields": {
+            "id": null,
+            "name": "Mada",
+            "arcana": "Hanged",
+            "level": 57,
+            "skills": {
+                "Gigantic Fist": 0.1,
+                "Agidyne": 0.2,
+                "Endure": 0.3,
+                "Maragidyne": 58,
+                "Vile Assault": 59,
+                "Null Wind": 61,
+                "Amrita Shower": 62,
+                "Strike Amp": 64
+            },
+            "resists": "-s-dwswwn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 95,
+        "fields": {
+            "id": null,
+            "name": "Magatsu-Izanagi",
+            "arcana": "Tower",
+            "level": 50,
+            "skills": {
+                "Magatsu Mandala": 0.1,
+                "Auto Tarukaja": 0.2,
+                "Ghastly Wail": 0.3,
+                "Megidola": 51,
+                "Ailment Boost": 52,
+                "Maziodyne": 54,
+                "Heat Riser": 56
+            },
+            "resists": "--s-w--nn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 96,
+        "fields": {
+            "id": null,
+            "name": "Mara",
+            "arcana": "Tower",
+            "level": 75,
+            "skills": {
+                "Maralagidyne": 0.1,
+                "Myriad Arrows": 0.2,
+                "Spirit Drain": 0.3,
+                "Primal Force": 76,
+                "Charge": 78,
+                "Pierce Amp": 80,
+                "Drain Light": 82
+            },
+            "resists": "-d-dw--wd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 97,
+        "fields": {
+            "id": null,
+            "name": "Masakado",
+            "arcana": "Tower",
+            "level": 79,
+            "skills": {
+                "Tempest Slash": 0.1,
+                "Myriad Arrows": 0.2,
+                "Magarudyne": 0.3,
+                "Debilitate": 81,
+                "Crit Rate Amp": 83,
+                "Arms Master": 84,
+                "Unshaken Will": 86
+            },
+            "resists": "sss--w-rs-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 98,
+        "fields": {
+            "id": null,
+            "name": "Matador",
+            "arcana": "Strength",
+            "level": 22,
+            "skills": {
+                "Torrent Shot": 0.1,
+                "Vacuum Slash": 0.2,
+                "Dodge Pierce": 0.3,
+                "Auto Sukukaja": 23,
+                "Dodge Fire": 25,
+                "Dekunda": 26,
+                "Blade of Fury": 28
+            },
+            "resists": "---w--n-r-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 99,
+        "fields": {
+            "id": null,
+            "name": "Melchizedek",
+            "arcana": "Justice",
+            "level": 66,
+            "skills": {
+                "Gigantic Fist": 0.1,
+                "Hamaon": 0.2,
+                "Revolution": 0.3,
+                "Mahamaon": 67,
+                "Hama Boost": 69,
+                "God's Hand": 71,
+                "Akasha Arts": 73
+            },
+            "resists": "-r----wr--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 100,
+        "fields": {
+            "id": null,
+            "name": "Mercurius",
+            "arcana": "Magician",
+            "level": 43,
+            "skills": {
+                "Vacuum Wave": 0.1,
+                "Mediarama": 0.2,
+                "Masukunda": 0.3,
+                "Samarecarm": 44,
+                "Garudyne": 45,
+                "Anti-Electric Master": 47,
+                "Salvation": 49
+            },
+            "resists": "-----wns--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 101,
+        "fields": {
+            "id": null,
+            "name": "Messiah",
+            "arcana": "Judgement",
+            "level": 91,
+            "skills": {
+                "Megidolaon": 0.1,
+                "God's Hand": 0.2,
+                "Salvation": 0.3,
+                "Enduring Soul": 92,
+                "Regenerate 3": 93,
+                "Invigorate 3": 94,
+                "Null Phys": 96,
+                "Magic Ability": 98
+            },
+            "resists": "---ssssrr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 102,
+        "fields": {
+            "id": null,
+            "name": "Metatron",
+            "arcana": "Aeon",
+            "level": 87,
+            "skills": {
+                "Makougaon": 0.1,
+                "Divine Judgment": 0.2,
+                "God's Hand": 0.3,
+                "Megidolaon": 89,
+                "Salvation": 90,
+                "Light Amp": 92,
+                "Repel Elec": 94
+            },
+            "resists": "---rswrrw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 103,
+        "fields": {
+            "id": null,
+            "name": "Michael",
+            "arcana": "Judgement",
+            "level": 70,
+            "skills": {
+                "Heaven's Blade": 0.1,
+                "Divine Judgment": 0.2,
+                "Angelic Grace": 0.3,
+                "Makougaon": 72,
+                "Maziodyne": 73,
+                "Heat Riser": 75,
+                "Drain Pierce": 77
+            },
+            "resists": "s-s---wrs-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 104,
+        "fields": {
+            "id": null,
+            "name": "Milady",
+            "arcana": "Empress",
+            "level": 36,
+            "skills": {
+                "Torrent Shot": 0.1,
+                "Amrita Drop": 0.2,
+                "Pierce Driver": 0.3,
+                "Fast Heal": 37,
+                "Tentarafoo": 38,
+                "Tetrakarn": 40,
+                "Makarakarn": 41
+            },
+            "resists": "--sw------"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 105,
+        "fields": {
+            "id": null,
+            "name": "Mishaguji",
+            "arcana": "Hierophant",
+            "level": 48,
+            "skills": {
+                "Mazionga": 0.1,
+                "Deathbound": 0.2,
+                "Marin Karin": 0.3,
+                "Ziodyne": 49,
+                "Matarukaja": 50,
+                "Vile Assault": 52,
+                "Null Strike": 54
+            },
+            "resists": "----wn--n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 106,
+        "fields": {
+            "id": null,
+            "name": "Mithras",
+            "arcana": "Chariot",
+            "level": 24,
+            "skills": {
+                "Makouha": 0.1,
+                "Zan-ei": 0.2,
+                "Rakunda": 0.3,
+                "Agilao": 25,
+                "Hama": 26,
+                "Tentarafoo": 27,
+                "Swift Strike": 29,
+                "Scarlet Havoc": 5217
+            },
+            "resists": "s--d-w----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 107,
+        "fields": {
+            "id": null,
+            "name": "Mitra",
+            "arcana": "Temperance",
+            "level": 22,
+            "skills": {
+                "Bufu": 0.1,
+                "Makouha": 0.2,
+                "Counter": 23,
+                "Diarama": 24,
+                "Kouga": 26,
+                "Dodge Elec": 27
+            },
+            "resists": "----nw-n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 108,
+        "fields": {
+            "id": null,
+            "name": "Mokoi",
+            "arcana": "Devil",
+            "level": 18,
+            "skills": {
+                "Evil Touch": 0.1,
+                "Marin Karin": 0.2,
+                "Sonic Punch": 0.3,
+                "Fear Boost": 19,
+                "Charm Boost": 21,
+                "Evil Smile": 23
+            },
+            "resists": "---wn---n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 109,
+        "fields": {
+            "id": null,
+            "name": "Mot",
+            "arcana": "Death",
+            "level": 58,
+            "skills": {
+                "Mamudoon": 0.1,
+                "Evil Smile": 0.2,
+                "Null Fear": 0.3,
+                "Ghastly Wail": 59,
+                "Mazionga": 60,
+                "Mudo Boost": 61,
+                "Megidola": 63
+            },
+            "resists": "-----nw-r-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 110,
+        "fields": {
+            "id": null,
+            "name": "Mother Harlot",
+            "arcana": "Empress",
+            "level": 77,
+            "skills": {
+                "Mamudoon": 0.1,
+                "Ziodyne": 0.2,
+                "Sexy Dance": 0.3,
+                "Mudo Boost": 78,
+                "Maziodyne": 80,
+                "Debilitate": 82,
+                "Diamond Dust": 83
+            },
+            "resists": "-n-w-rw-n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 111,
+        "fields": {
+            "id": null,
+            "name": "Mothman",
+            "arcana": "Hermit",
+            "level": 31,
+            "skills": {
+                "Eerie Sound": 0.1,
+                "Stagnant Air": 0.2,
+                "Zionga": 32,
+                "Distress Boost": 33,
+                "Elec Boost": 34,
+                "Megido": 36
+            },
+            "resists": "--wswrn-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 112,
+        "fields": {
+            "id": null,
+            "name": "Naga",
+            "arcana": "Hermit",
+            "level": 17,
+            "skills": {
+                "Bewilder": 0.1,
+                "Single Shot": 0.2,
+                "Distress Boost": 18,
+                "Torrent Shot": 19,
+                "Eerie Sound": 21,
+                "Invigorate 1": 22
+            },
+            "resists": "-w---s--s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 113,
+        "fields": {
+            "id": null,
+            "name": "Naga Raja",
+            "arcana": "Emperor",
+            "level": 43,
+            "skills": {
+                "Mazionga": 0.1,
+                "Cruel Attack": 0.2,
+                "Tentarafoo": 0.3,
+                "Revolution": 44,
+                "Elec Break": 45,
+                "Confuse Boost": 46,
+                "Null Pierce": 48
+            },
+            "resists": "--sw-n----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 114,
+        "fields": {
+            "id": null,
+            "name": "Narcissus",
+            "arcana": "Lovers",
+            "level": 23,
+            "skills": {
+                "Marin Karin": 0.1,
+                "Charm Boost": 0.2,
+                "Magaru": 0.3,
+                "Sexy Dance": 24,
+                "Sharp Student": 25,
+                "Growth 1": 27,
+                "Dodge Slash": 28
+            },
+            "resists": "w---sss---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 115,
+        "fields": {
+            "id": null,
+            "name": "Nebiros",
+            "arcana": "Hermit",
+            "level": 52,
+            "skills": {
+                "Evil Touch": 0.1,
+                "Eigaon": 0.2,
+                "Ghastly Wail": 0.3,
+                "Resist Ailments": 53,
+                "Evil Smile": 54,
+                "Fear Boost": 55,
+                "Mamudoon": 57
+            },
+            "resists": "----r--wn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 116,
+        "fields": {
+            "id": null,
+            "name": "Neko Shogun",
+            "arcana": "Star",
+            "level": 17,
+            "skills": {
+                "Regenerate 1": 0.1,
+                "Assault Dive": 0.2,
+                "Rebellion": 0.3,
+                "Sharp Student": 18,
+                "Swift Strike": 20,
+                "Resist Dizzy": 22
+            },
+            "resists": "-----swnn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 117,
+        "fields": {
+            "id": null,
+            "name": "Nekomata",
+            "arcana": "Magician",
+            "level": 3,
+            "skills": {
+                "Agi": 0.1,
+                "Rakunda": 0.2,
+                "Power Slash": 4,
+                "Resist Distress": 5,
+                "Marin Karin": 6,
+                "Maragi": 8
+            },
+            "resists": "-----ws---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 118,
+        "fields": {
+            "id": null,
+            "name": "Nidhoggr",
+            "arcana": "Aeon",
+            "level": 47,
+            "skills": {
+                "Matarunda": 0.1,
+                "Mudoon": 0.2,
+                "Heat Wave": 0.3,
+                "Virus Breath": 48,
+                "Stagnant Air": 49,
+                "Ailment Boost": 51,
+                "Null Light": 53
+            },
+            "resists": "--s-nnwws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 119,
+        "fields": {
+            "id": null,
+            "name": "Nigi Mitama",
+            "arcana": "Temperance",
+            "level": 12,
+            "skills": {
+                "Media": 0.1,
+                "Garu": 0.2,
+                "Baisudi": 0.3,
+                "Magaru": 14,
+                "Sharp Student": 15,
+                "Recarm": 17
+            },
+            "resists": "-----wnss-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 120,
+        "fields": {
+            "id": null,
+            "name": "Norn",
+            "arcana": "Fortune",
+            "level": 65,
+            "skills": {
+                "Magarudyne": 0.1,
+                "Panta Rhei": 0.2,
+                "Wind Amp": 0.3,
+                "Invigorate 3": 66,
+                "Mediarahan": 68,
+                "Soul Link": 70,
+                "Salvation": 72
+            },
+            "resists": "---nrwd---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 121,
+        "fields": {
+            "id": null,
+            "name": "Oberon",
+            "arcana": "Emperor",
+            "level": 16,
+            "skills": {
+                "Zio": 0.1,
+                "Media": 0.2,
+                "Mazio": 17,
+                "Zan-ei": 18,
+                "Survive Dark": 19,
+                "Zionga": 21
+            },
+            "resists": "----wn-ss-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 122,
+        "fields": {
+            "id": null,
+            "name": "Odin",
+            "arcana": "Emperor",
+            "level": 74,
+            "skills": {
+                "Maziodyne": 0.1,
+                "Primal Force": 0.2,
+                "Marakunda": 0.3,
+                "Thunder Reign": 75,
+                "Elec Amp": 76,
+                "Concentrate": 78,
+                "Spell Master": 80
+            },
+            "resists": "-----dw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 123,
+        "fields": {
+            "id": null,
+            "name": "Okuninushi",
+            "arcana": "Temperance",
+            "level": 44,
+            "skills": {
+                "Getsu-ei": 0.1,
+                "Deathbound": 0.2,
+                "Maragion": 0.3,
+                "Marakukaja": 45,
+                "Fire Break": 46,
+                "Agidyne": 47,
+                "Evade Fire": 49
+            },
+            "resists": "---n-rws--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 124,
+        "fields": {
+            "id": null,
+            "name": "Omoikane",
+            "arcana": "Hierophant",
+            "level": 7,
+            "skills": {
+                "Zio": 0.1,
+                "Dia": 0.2,
+                "Rebellion": 8,
+                "Resist Shock": 10,
+                "Auto Rakukaja": 12
+            },
+            "resists": "-----s--w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 125,
+        "fields": {
+            "id": null,
+            "name": "Oni",
+            "arcana": "Chariot",
+            "level": 31,
+            "skills": {
+                "Bash": 0.1,
+                "Counter": 0.2,
+                "Regenerate 1": 0.3,
+                "Swift Strike": 32,
+                "Anti-Electric Master": 33,
+                "Counterstrike": 34,
+                "Dizzy Boost": 36
+            },
+            "resists": "-s--------"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 126,
+        "fields": {
+            "id": null,
+            "name": "Onmoraki",
+            "arcana": "Hermit",
+            "level": 8,
+            "skills": {
+                "Evil Touch": 0.1,
+                "Tarunda": 0.2,
+                "Garu": 0.3,
+                "Eiha": 10,
+                "Growth 1": 11,
+                "Magaru": 13
+            },
+            "resists": "w--s--sw--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 127,
+        "fields": {
+            "id": null,
+            "name": "Orobas",
+            "arcana": "Magician",
+            "level": 39,
+            "skills": {
+                "Magarula": 0.1,
+                "Torrent Shot": 0.2,
+                "Wind Break": 0.3,
+                "Wind Boost": 40,
+                "Masukukaja": 42,
+                "Resist Ice": 44,
+                "Survival Trick": 45
+            },
+            "resists": "----w-n-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 128,
+        "fields": {
+            "id": null,
+            "name": "Orpheus",
+            "arcana": "Fool",
+            "level": 1,
+            "skills": {
+                "Agi": 0.1,
+                "Dia": 3,
+                "Bash": 4,
+                "Tarunda": 5,
+                "Cadenza": 5217
+            },
+            "resists": "---s-w--w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 129,
+        "fields": {
+            "id": null,
+            "name": "Orpheus Telos",
+            "arcana": "Fool",
+            "level": 91,
+            "skills": {
+                "Victory Cry": 0.1
+            },
+            "resists": "sssssssss-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 130,
+        "fields": {
+            "id": null,
+            "name": "Orthrus",
+            "arcana": "Hanged",
+            "level": 27,
+            "skills": {
+                "Fatal End": 0.1,
+                "Agilao": 0.2,
+                "Raging Tiger": 0.3,
+                "Counter": 28,
+                "Resist Poison": 29,
+                "Eerie Sound": 31,
+                "Matarukaja": 32
+            },
+            "resists": "---dw---s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 131,
+        "fields": {
+            "id": null,
+            "name": "Ose",
+            "arcana": "Fool",
+            "level": 41,
+            "skills": {
+                "Blade of Fury": 0.1,
+                "Matarunda": 0.2,
+                "Multi-Target Boost": 0.3,
+                "Deathbound": 42,
+                "Null Rage": 43,
+                "Life Aid": 45,
+                "Tempest Slash": 47
+            },
+            "resists": "-s-s---wn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 132,
+        "fields": {
+            "id": null,
+            "name": "Pale Rider",
+            "arcana": "Death",
+            "level": 23,
+            "skills": {
+                "Maeiha": 0.1,
+                "Fatal End": 0.2,
+                "Resist Fear": 0.3,
+                "Mamudo": 24,
+                "Eiga": 25,
+                "Survive Light": 26,
+                "Null Fear": 28
+            },
+            "resists": "------swr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 133,
+        "fields": {
+            "id": null,
+            "name": "Parvati",
+            "arcana": "Priestess",
+            "level": 48,
+            "skills": {
+                "Mabufula": 0.1,
+                "Diarama": 0.2,
+                "Mabaisudi": 0.3,
+                "Amrita Drop": 49,
+                "Mediarama": 50,
+                "Divine Grace": 52,
+                "Bufudyne": 53
+            },
+            "resists": "---wn-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 134,
+        "fields": {
+            "id": null,
+            "name": "Pazuzu",
+            "arcana": "Devil",
+            "level": 56,
+            "skills": {
+                "Eigaon": 0.1,
+                "Poison Arrow": 0.2,
+                "Poison Mist": 0.3,
+                "Infuriate": 57,
+                "Neuro Slash": 58,
+                "Masukunda": 59,
+                "Ailment Boost": 61
+            },
+            "resists": "----rwnws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 135,
+        "fields": {
+            "id": null,
+            "name": "Pisaca",
+            "arcana": "Death",
+            "level": 15,
+            "skills": {
+                "Mudo": 0.1,
+                "Eiha": 0.2,
+                "Dekaja": 16,
+                "Foul Breath": 17,
+                "Maeiha": 18,
+                "Mamudo": 19
+            },
+            "resists": "-sww-s-wn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 136,
+        "fields": {
+            "id": null,
+            "name": "Pixie",
+            "arcana": "Lovers",
+            "level": 2,
+            "skills": {
+                "Dia": 0.1,
+                "Pulinpa": 0.2,
+                "Zio": 4,
+                "Tarukaja": 5,
+                "Resist Confuse": 6
+            },
+            "resists": "----ws----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 137,
+        "fields": {
+            "id": null,
+            "name": "Power",
+            "arcana": "Justice",
+            "level": 25,
+            "skills": {
+                "Hama": 0.1,
+                "Magaru": 0.2,
+                "Arrow Rain": 0.3,
+                "Mahama": 26,
+                "Torrent Shot": 27,
+                "Dodge Dark": 29,
+                "Revolution": 30
+            },
+            "resists": "--s---snw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 138,
+        "fields": {
+            "id": null,
+            "name": "Principality",
+            "arcana": "Justice",
+            "level": 16,
+            "skills": {
+                "Hama": 0.1,
+                "Kouha": 0.2,
+                "Holy Arrow": 0.3,
+                "Recarm": 18,
+                "Dodge Elec": 19,
+                "Mahama": 21
+            },
+            "resists": "---s---nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 139,
+        "fields": {
+            "id": null,
+            "name": "Qitian Dasheng",
+            "arcana": "Tower",
+            "level": 67,
+            "skills": {
+                "Myriad Arrows": 0.1,
+                "Apt Pupil": 0.2,
+                "Regenerate 3": 0.3,
+                "Primal Force": 68,
+                "Revolution": 70,
+                "Akasha Arts": 72,
+                "Evade Strike": 73
+            },
+            "resists": "--nw--s---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 140,
+        "fields": {
+            "id": null,
+            "name": "Queen Medb",
+            "arcana": "Lovers",
+            "level": 28,
+            "skills": {
+                "Me Patra": 0.1,
+                "Mazio": 0.2,
+                "Maragi": 0.3,
+                "Multi-Target Boost": 29,
+                "Dodge Strike": 30,
+                "Dodge Pierce": 31,
+                "Matarunda": 33
+            },
+            "resists": "---s-nw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 141,
+        "fields": {
+            "id": null,
+            "name": "Quetzalcoatl",
+            "arcana": "Sun",
+            "level": 45,
+            "skills": {
+                "Bufula": 0.1,
+                "Garudyne": 0.2,
+                "Growth 3": 0.3,
+                "Single-Target Boost": 46,
+                "Bufudyne": 48,
+                "Resist Ailments": 50,
+                "Ice Amp": 51
+            },
+            "resists": "----n-snw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 142,
+        "fields": {
+            "id": null,
+            "name": "Rakshasa",
+            "arcana": "Strength",
+            "level": 15,
+            "skills": {
+                "Vacuum Slash": 0.1,
+                "Dodge Slash": 0.2,
+                "Regenerate 1": 0.3,
+                "Fatal End": 16,
+                "Counter": 18,
+                "Getsu-ei": 20
+            },
+            "resists": "s-s---ww--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 143,
+        "fields": {
+            "id": null,
+            "name": "Rangda",
+            "arcana": "Magician",
+            "level": 50,
+            "skills": {
+                "Myriad Arrows": 0.1,
+                "Matarunda": 0.2,
+                "Counterstrike": 0.3,
+                "Agidyne": 51,
+                "High Counter": 53,
+                "Maeiga": 54,
+                "Evade Ice": 56
+            },
+            "resists": "-r-sww----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 144,
+        "fields": {
+            "id": null,
+            "name": "Raphael",
+            "arcana": "Lovers",
+            "level": 60,
+            "skills": {
+                "Tempest Slash": 0.1,
+                "Mediarama": 0.2,
+                "Dekaja": 0.3,
+                "Auto Maraku": 61,
+                "Magarudyne": 62,
+                "Angelic Grace": 64,
+                "Heat Riser": 66
+            },
+            "resists": "---s-wnnw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 145,
+        "fields": {
+            "id": null,
+            "name": "Robin Hood",
+            "arcana": "Justice",
+            "level": 37,
+            "skills": {
+                "Kouga": 0.1,
+                "Eiga": 0.2,
+                "Light Driver": 0.3,
+                "Megido": 38,
+                "Resist Ailments": 40,
+                "Kougaon": 41,
+                "Eigaon": 42
+            },
+            "resists": "-------sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 146,
+        "fields": {
+            "id": null,
+            "name": "Saki Mitama",
+            "arcana": "Lovers",
+            "level": 36,
+            "skills": {
+                "Diarama": 0.1,
+                "Mabufu": 0.2,
+                "Ice Break": 0.3,
+                "Mediarama": 37,
+                "Dekunda": 38,
+                "Null Shock": 39,
+                "Divine Grace": 41
+            },
+            "resists": "-w-ssss---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 147,
+        "fields": {
+            "id": null,
+            "name": "Samael",
+            "arcana": "Death",
+            "level": 41,
+            "skills": {
+                "Maeiga": 0.1,
+                "Masukunda": 0.2,
+                "Poison Mist": 0.3,
+                "Dekunda": 42,
+                "Mudoon": 43,
+                "Megido": 44,
+                "Ghastly Wail": 46
+            },
+            "resists": "----snw-n-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 148,
+        "fields": {
+            "id": null,
+            "name": "Sandalphon",
+            "arcana": "Moon",
+            "level": 80,
+            "skills": {
+                "Divine Judgment": 0.1,
+                "Mediarahan": 0.2,
+                "Akasha Arts": 0.3,
+                "Angelic Grace": 81,
+                "Makougaon": 83,
+                "Salvation": 84,
+                "Drain Dark": 87
+            },
+            "resists": "n----s-rw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 149,
+        "fields": {
+            "id": null,
+            "name": "Sandman",
+            "arcana": "Fortune",
+            "level": 20,
+            "skills": {
+                "Garula": 0.1,
+                "Tentarafoo": 0.2,
+                "Null Confuse": 21,
+                "Agilao": 22,
+                "Confuse Boost": 24,
+                "Resist Elec": 26
+            },
+            "resists": "---nwwn---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 150,
+        "fields": {
+            "id": null,
+            "name": "Sarasvati",
+            "arcana": "Priestess",
+            "level": 32,
+            "skills": {
+                "Diarama": 0.1,
+                "Mabaisudi": 0.2,
+                "Bufula": 0.3,
+                "Dodge Elec": 33,
+                "Anti-Wind Master": 34,
+                "Mediarama": 35,
+                "Masukukaja": 36
+            },
+            "resists": "----nw-s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 151,
+        "fields": {
+            "id": null,
+            "name": "Satan",
+            "arcana": "Judgement",
+            "level": 82,
+            "skills": {
+                "Diamond Dust": 0.1,
+                "Maeigaon": 0.2,
+                "Resist Ailments": 0.3,
+                "Megidolaon": 83,
+                "Concentrate": 84,
+                "Debilitate": 86,
+                "Repel Wind": 88,
+                "Black Viper": 89,
+                "Armageddon": 5217
+            },
+            "resists": "---sr-w-d-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 152,
+        "fields": {
+            "id": null,
+            "name": "Satanael",
+            "arcana": "Fool",
+            "level": 89,
+            "skills": {
+                "Sinful Shell": 0.1,
+                "Maeigaon": 0.2,
+                "Survival Trick": 0.3,
+                "Primal Force": 90,
+                "Life Aid": 91,
+                "Heat Riser": 93,
+                "Almighty Boost": 95
+            },
+            "resists": "---ssssnd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 153,
+        "fields": {
+            "id": null,
+            "name": "Sati",
+            "arcana": "Magician",
+            "level": 29,
+            "skills": {
+                "Agilao": 0.1,
+                "Maragi": 0.2,
+                "Media": 0.3,
+                "Baisudi": 30,
+                "Maragion": 32,
+                "Anti-Fire Master": 33,
+                "Evade Ice": 35
+            },
+            "resists": "---nw-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 154,
+        "fields": {
+            "id": null,
+            "name": "Saturnus",
+            "arcana": "Star",
+            "level": 76,
+            "skills": {
+                "Inferno": 0.1,
+                "Maragidyne": 0.2,
+                "Concentrate": 0.3,
+                "Fire Amp": 77,
+                "Primal Force": 78,
+                "Heat Riser": 80,
+                "Repel Ice": 82
+            },
+            "resists": "---dw-n---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 155,
+        "fields": {
+            "id": null,
+            "name": "Scathach",
+            "arcana": "Priestess",
+            "level": 75,
+            "skills": {
+                "Mabufudyne": 0.1,
+                "Magarudyne": 0.2,
+                "Myriad Arrows": 0.3,
+                "Auto Masuku": 76,
+                "Freeze Boost": 77,
+                "Invigorate 3": 79,
+                "Auto Mataru": 81
+            },
+            "resists": "--nwn-ss--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 156,
+        "fields": {
+            "id": null,
+            "name": "Seiryu",
+            "arcana": "Temperance",
+            "level": 38,
+            "skills": {
+                "Mabufula": 0.1,
+                "Mediarama": 0.2,
+                "Matarunda": 39,
+                "Tetrakarn": 40,
+                "Amrita Drop": 41,
+                "Bufudyne": 43
+            },
+            "resists": "----nw----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 157,
+        "fields": {
+            "id": null,
+            "name": "Seiten Taisei",
+            "arcana": "Chariot",
+            "level": 40,
+            "skills": {
+                "Wild Thunder": 0.1,
+                "Deathbound": 0.2,
+                "Auto Tarukaja": 0.3,
+                "Auto Rebellion": 41,
+                "Charge": 43,
+                "Gigantic Fist": 44,
+                "Auto Mataru": 46
+            },
+            "resists": "---s-nw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 158,
+        "fields": {
+            "id": null,
+            "name": "Setanta",
+            "arcana": "Star",
+            "level": 29,
+            "skills": {
+                "Torrent Shot": 0.1,
+                "Auto Tarukaja": 0.2,
+                "Sharp Student": 0.3,
+                "Zionga": 30,
+                "Charge": 31,
+                "Shift Boost": 33,
+                "Resist Fire": 34
+            },
+            "resists": "--sw-n--w-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 159,
+        "fields": {
+            "id": null,
+            "name": "Seth",
+            "arcana": "Moon",
+            "level": 62,
+            "skills": {
+                "Agidyne": 0.1,
+                "Garudyne": 0.2,
+                "Tetrakarn": 0.3,
+                "Makarakarn": 63,
+                "Fire Break": 64,
+                "Maragidyne": 66,
+                "Repel Ice": 68
+            },
+            "resists": "---rw--ws-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 160,
+        "fields": {
+            "id": null,
+            "name": "Shiisaa",
+            "arcana": "Hierophant",
+            "level": 23,
+            "skills": {
+                "Mabufu": 0.1,
+                "Assault Dive": 0.2,
+                "Rakukaja": 24,
+                "Ice Boost": 26,
+                "Dodge Fire": 27,
+                "Herculean Strike": 29
+            },
+            "resists": "-s-wn--s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 161,
+        "fields": {
+            "id": null,
+            "name": "Shiki-Ouji",
+            "arcana": "Chariot",
+            "level": 45,
+            "skills": {
+                "Torrent Shot": 0.1,
+                "Dekaja": 0.2,
+                "Kouga": 0.3,
+                "Tetrakarn": 46,
+                "Matarukaja": 47,
+                "Evade Wind": 49,
+                "Null Fire": 51
+            },
+            "resists": "-rnw--wss-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 162,
+        "fields": {
+            "id": null,
+            "name": "Shiva",
+            "arcana": "Tower",
+            "level": 82,
+            "skills": {
+                "Maziodyne": 0.1,
+                "Enduring Soul": 0.2,
+                "Invigorate 3": 0.3,
+                "Pralaya": 83,
+                "Life Aid": 84,
+                "God's Hand": 86,
+                "Ali Dance": 88
+            },
+            "resists": "--n-wd-n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 163,
+        "fields": {
+            "id": null,
+            "name": "Siegfried",
+            "arcana": "Strength",
+            "level": 54,
+            "skills": {
+                "Deathbound": 0.1,
+                "Charge": 0.2,
+                "Auto Rebellion": 0.3,
+                "Auto Masuku": 55,
+                "Crit Rate Amp": 57,
+                "Brave Blade": 59,
+                "Slash Amp": 61,
+                "Scarlet Havoc": 5217
+            },
+            "resists": "ns-----nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 164,
+        "fields": {
+            "id": null,
+            "name": "Silky",
+            "arcana": "Lovers",
+            "level": 5,
+            "skills": {
+                "Bewilder": 0.1,
+                "Bufu": 0.2,
+                "Dia": 6,
+                "Baisudi": 7,
+                "Sharp Student": 9
+            },
+            "resists": "---wsw----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 165,
+        "fields": {
+            "id": null,
+            "name": "Skadi",
+            "arcana": "Empress",
+            "level": 68,
+            "skills": {
+                "Mabufudyne": 0.1,
+                "Tetrakarn": 0.2,
+                "Vorpal Blade": 0.3,
+                "Diamond Dust": 69,
+                "Maeigaon": 70,
+                "Ice Amp": 72,
+                "Drain Fire": 75
+            },
+            "resists": "---wd-s---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 166,
+        "fields": {
+            "id": null,
+            "name": "Slime",
+            "arcana": "Fool",
+            "level": 12,
+            "skills": {
+                "Bash": 0.1,
+                "Evil Touch": 0.2,
+                "Raging Tiger": 0.3,
+                "Mudo": 13,
+                "Fire Break": 15,
+                "Survive Light": 16
+            },
+            "resists": "ss-w--w-s-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 167,
+        "fields": {
+            "id": null,
+            "name": "Succubus",
+            "arcana": "Devil",
+            "level": 47,
+            "skills": {
+                "Maeiga": 0.1,
+                "Sexy Dance": 0.2,
+                "Spirit Drain": 0.3,
+                "Drain Ability": 48,
+                "Maragion": 49,
+                "Eigaon": 51,
+                "Evade Light": 53
+            },
+            "resists": "--wr---wd-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 168,
+        "fields": {
+            "id": null,
+            "name": "Surt",
+            "arcana": "Magician",
+            "level": 60,
+            "skills": {
+                "Agidyne": 0.1,
+                "Deathbound": 0.2,
+                "Auto Tarukaja": 0.3,
+                "Maragidyne": 61,
+                "Marakunda": 62,
+                "Inferno": 64,
+                "Fire Amp": 66
+            },
+            "resists": "---dw-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 169,
+        "fields": {
+            "id": null,
+            "name": "Susano-o",
+            "arcana": "Fool",
+            "level": 77,
+            "skills": {
+                "Brave Blade": 0.1,
+                "Vorpal Blade": 0.2,
+                "Charge": 0.3,
+                "Auto Mataru": 78,
+                "High Counter": 79,
+                "Slash Amp": 81,
+                "Repel Light": 84,
+                "Trickster": 5217
+            },
+            "resists": "--r--wnw--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 170,
+        "fields": {
+            "id": null,
+            "name": "Suzaku",
+            "arcana": "Temperance",
+            "level": 55,
+            "skills": {
+                "Maragion": 0.1,
+                "Diarahan": 0.2,
+                "Samarecarm": 0.3,
+                "Regenerate 3": 56,
+                "Agidyne": 57,
+                "Fast Heal": 59,
+                "Fire Amp": 61
+            },
+            "resists": "---rw--s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 171,
+        "fields": {
+            "id": null,
+            "name": "Take-Mikazuchi",
+            "arcana": "Emperor",
+            "level": 23,
+            "skills": {
+                "Mazio": 0.1,
+                "Fatal End": 0.2,
+                "Elec Break": 0.3,
+                "Zionga": 24,
+                "Auto Tarukaja": 26,
+                "Getsu-ei": 27,
+                "Mazionga": 28
+            },
+            "resists": "s----nw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 172,
+        "fields": {
+            "id": null,
+            "name": "Take-Minakata",
+            "arcana": "Hanged",
+            "level": 20,
+            "skills": {
+                "Zio": 0.1,
+                "Auto Rakukaja": 0.2,
+                "Dekaja": 0.3,
+                "Survive Dark": 21,
+                "Zionga": 22,
+                "Dodge Strike": 24,
+                "Elec Boost": 25
+            },
+            "resists": "--ss-s-ww-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 173,
+        "fields": {
+            "id": null,
+            "name": "Tam Lin",
+            "arcana": "Lovers",
+            "level": 13,
+            "skills": {
+                "Power Slash": 0.1,
+                "Zio": 0.2,
+                "Sukukaja": 0.3,
+                "Fatal End": 15,
+                "Mazio": 17,
+                "Survive Dark": 18
+            },
+            "resists": "s----n-sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 174,
+        "fields": {
+            "id": null,
+            "name": "Thanatos",
+            "arcana": "Death",
+            "level": 78,
+            "skills": {
+                "Maeigaon": 0.1,
+                "Mamudoon": 0.2,
+                "Ghastly Wail": 0.3,
+                "Dark Amp": 79,
+                "Enduring Soul": 80,
+                "Brave Blade": 82,
+                "Megidolaon": 84
+            },
+            "resists": "---sssswr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 175,
+        "fields": {
+            "id": null,
+            "name": "Thor",
+            "arcana": "Chariot",
+            "level": 64,
+            "skills": {
+                "Ziodyne": 0.1,
+                "Maziodyne": 0.2,
+                "Gigantic Fist": 0.3,
+                "High Counter": 66,
+                "Elec Amp": 68,
+                "God's Hand": 71
+            },
+            "resists": "-n---nw---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 176,
+        "fields": {
+            "id": null,
+            "name": "Thoth",
+            "arcana": "Hierophant",
+            "level": 40,
+            "skills": {
+                "Zionga": 0.1,
+                "Mahama": 0.2,
+                "Diarama": 0.3,
+                "Mazionga": 41,
+                "Soul Shift": 43,
+                "Megido": 44,
+                "Concentrate": 45
+            },
+            "resists": "-w---n-nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 177,
+        "fields": {
+            "id": null,
+            "name": "Throne",
+            "arcana": "Justice",
+            "level": 52,
+            "skills": {
+                "Mahama": 0.1,
+                "Maragion": 0.2,
+                "Recarmdra": 0.3,
+                "Samarecarm": 53,
+                "Kougaon": 54,
+                "Hama Boost": 55,
+                "Mahamaon": 57
+            },
+            "resists": "-w-n---rw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 178,
+        "fields": {
+            "id": null,
+            "name": "Thunderbird",
+            "arcana": "Sun",
+            "level": 35,
+            "skills": {
+                "Mazionga": 0.1,
+                "Shock Boost": 0.2,
+                "Counterstrike": 36,
+                "Rebellion": 37,
+                "Ziodyne": 39,
+                "Null Elec": 41
+            },
+            "resists": "--w--d-n--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 179,
+        "fields": {
+            "id": null,
+            "name": "Titania",
+            "arcana": "Lovers",
+            "level": 49,
+            "skills": {
+                "Bufudyne": 0.1,
+                "Mabufula": 0.2,
+                "Magarula": 50,
+                "Freeze Boost": 51,
+                "Concentrate": 53,
+                "Mabufudyne": 55
+            },
+            "resists": "---wn--s--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 180,
+        "fields": {
+            "id": null,
+            "name": "Trumpeter",
+            "arcana": "Judgement",
+            "level": 59,
+            "skills": {
+                "Hamaon": 0.1,
+                "Mudoon": 0.2,
+                "High Counter": 0.3,
+                "Makougaon": 60,
+                "Resist Ailments": 62,
+                "Mediarahan": 63,
+                "Debilitate": 65
+            },
+            "resists": "----n-wrn-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 181,
+        "fields": {
+            "id": null,
+            "name": "Unicorn",
+            "arcana": "Priestess",
+            "level": 11,
+            "skills": {
+                "Kouha": 0.1,
+                "Dia": 0.2,
+                "Hama": 12,
+                "Patra": 13,
+                "Auto Rakukaja": 15,
+                "Resist Rage": 16
+            },
+            "resists": "----n-wnw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 182,
+        "fields": {
+            "id": null,
+            "name": "Uriel",
+            "arcana": "Aeon",
+            "level": 57,
+            "skills": {
+                "Vorpal Blade": 0.1,
+                "Kougaon": 0.2,
+                "Sharp Student": 0.3,
+                "Agidyne": 58,
+                "Angelic Grace": 60,
+                "Mahamaon": 61,
+                "Heaven's Blade": 63
+            },
+            "resists": "s--dwn-nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 183,
+        "fields": {
+            "id": null,
+            "name": "Valkyrie",
+            "arcana": "Strength",
+            "level": 10,
+            "skills": {
+                "Power Slash": 0.1,
+                "Bufu": 0.2,
+                "Dodge Slash": 0.3,
+                "Auto Sukukaja": 12,
+                "Vacuum Slash": 13,
+                "Fatal End": 15
+            },
+            "resists": "--sws-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 184,
+        "fields": {
+            "id": null,
+            "name": "Vanadis",
+            "arcana": "Star",
+            "level": 58,
+            "skills": {
+                "Masquerade": 0.1,
+                "Kougaon": 0.2,
+                "Revolution": 0.3,
+                "Soul Chain": 59,
+                "Makougaon": 61,
+                "Brave Blade": 62,
+                "Ali Dance": 64
+            },
+            "resists": "s------nw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 185,
+        "fields": {
+            "id": null,
+            "name": "Vasuki",
+            "arcana": "Hanged",
+            "level": 38,
+            "skills": {
+                "Mahama": 0.1,
+                "Neuro Slash": 0.2,
+                "Poison Mist": 0.3,
+                "Recarmdra": 39,
+                "Hama Boost": 40,
+                "Counterstrike": 42,
+                "Mahamaon": 44
+            },
+            "resists": "----sswr--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 186,
+        "fields": {
+            "id": null,
+            "name": "Virtue",
+            "arcana": "Justice",
+            "level": 32,
+            "skills": {
+                "Magaru": 0.1,
+                "Kouga": 0.2,
+                "Null Poison": 33,
+                "Mahama": 34,
+                "Light Boost": 35,
+                "Makouga": 37
+            },
+            "resists": "------srw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 187,
+        "fields": {
+            "id": null,
+            "name": "Vishnu",
+            "arcana": "Sun",
+            "level": 78,
+            "skills": {
+                "Akasha Arts": 0.1,
+                "Bufudyne": 0.2,
+                "Ziodyne": 0.3,
+                "Panta Rhei": 79,
+                "Concentrate": 80,
+                "Ali Dance": 82,
+                "Salvation": 84
+            },
+            "resists": "----nn-dw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 188,
+        "fields": {
+            "id": null,
+            "name": "White Rider",
+            "arcana": "Strength",
+            "level": 46,
+            "skills": {
+                "Maeiga": 0.1,
+                "Arrow Rain": 0.2,
+                "Mudoon": 0.3,
+                "Poison Arrow": 47,
+                "Pierce Boost": 48,
+                "Null Fear": 49,
+                "Evade Dark": 51
+            },
+            "resists": "---sw--nr-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 189,
+        "fields": {
+            "id": null,
+            "name": "Yakshini",
+            "arcana": "Empress",
+            "level": 32,
+            "skills": {
+                "Sexy Dance": 0.1,
+                "Fatal End": 0.2,
+                "Blade of Fury": 33,
+                "Charm Boost": 35,
+                "Multi-Target Boost": 36,
+                "Deathbound": 37
+            },
+            "resists": "--swn-----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 190,
+        "fields": {
+            "id": null,
+            "name": "Yamata-no-Orochi",
+            "arcana": "Moon",
+            "level": 25,
+            "skills": {
+                "Bufula": 0.1,
+                "Zio": 0.2,
+                "Single Shot": 0.3,
+                "Single-Target Boost": 26,
+                "Null Freeze": 27,
+                "Marakukaja": 29,
+                "Cruel Attack": 30
+            },
+            "resists": "w---nn----"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 191,
+        "fields": {
+            "id": null,
+            "name": "Yatagarasu",
+            "arcana": "Sun",
+            "level": 24,
+            "skills": {
+                "Growth 1": 0.1,
+                "Sukunda": 0.2,
+                "Zan-ei": 0.3,
+                "Sukukaja": 25,
+                "Diarama": 26,
+                "Infuriate": 28,
+                "Masukunda": 30
+            },
+            "resists": "----w-sn--"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 192,
+        "fields": {
+            "id": null,
+            "name": "Yurlungur",
+            "arcana": "Temperance",
+            "level": 71,
+            "skills": {
+                "Kougaon": 0.1,
+                "Evade Elec": 0.2,
+                "Evade Fire": 0.3,
+                "Maziodyne": 72,
+                "Revolution": 74,
+                "Makougaon": 75,
+                "Evade Dark": 77
+            },
+            "resists": "---s-s-sw-"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 193,
+        "fields": {
+            "id": null,
+            "name": "Zorro",
+            "arcana": "Magician",
+            "level": 22,
+            "skills": {
+                "Magaru": 0.1,
+                "Media": 0.2,
+                "Wind Driver": 0.3,
+                "Garula": 23,
+                "Recarm": 24,
+                "Divine Grace": 25,
+                "Magarula": 27
+            },
+            "resists": "-----ws---"
+        }
+    },
+    {
+        "model": "personas.persona",
+        "pk": 194,
+        "fields": {
+            "id": null,
+            "name": "Zouchouten",
+            "arcana": "Chariot",
+            "level": 14,
+            "skills": {
+                "Bash": 0.1,
+                "Zio": 0.2,
+                "Crit Rate Boost": 0.3,
+                "Auto Tarukaja": 15,
+                "Assault Dive": 16,
+                "Rebellion": 18,
+                "Swift Strike": 19
+            },
+            "resists": "-s----w---"
+        }
+    }
+]

@@ -1,0 +1,13 @@
+# Node
+node_modules
+dist
+release
+
+# Python
+venv
+*.pyc
+__pycache__/
+
+# Electron
+*.local
+out
