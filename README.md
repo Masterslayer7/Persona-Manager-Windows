@@ -20,8 +20,8 @@ A desktop application built with **React**, **Django**, and **Electron** for man
 
 > ✅ **No setup needed** — just download and run!
 
-1. Go to the [**Releases**](https://github.com/your-username/personaManager/releases) page
-2. Download the latest `PersonaManager Setup.exe` file
+1. Go to the [**Releases**](https://github.com/Masterslayer7/Persona-Manager-Windows/releases/tag/v1.0.0) page
+2. Download the latest `Persona.Manager.Setup.1.0.0.exe` file
 3. Run the installer
 4. Launch **Persona Manager** from your desktop or start menu
 
