@@ -26,13 +26,13 @@
       "main.js",
       "package.json",
       "frontend/dist/**/*",
-      "backend/**/*",
+      "backend/dist/**",
       "!**/node_modules/*/{test,__tests__}/**"
     ],
     "extraResources": [
       {
-        "from": "backend/",
-        "to": "backend/"
+        "from": "backend/dist/persona_backend/persona_backend.exe",
+        "to": "persona_backend.exe"
       }
     ],
     "win": {
