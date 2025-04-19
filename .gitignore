@@ -3,6 +3,7 @@ node_modules
 dist
 release
 dev
+build
 
 # Python
 venv
