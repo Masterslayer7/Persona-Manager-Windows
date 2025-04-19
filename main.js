@@ -1,27 +1,28 @@
 const { app, BrowserWindow } = require('electron');
 const path = require('path');
 const { spawn } = require('child_process');
+const fs = require('fs');
 
 let backendProcess;
 
+
 function startBackend() {
-  const exePath = path.join(process.resourcesPath, 'persona_backend.exe');
+  const exePath = path.join(process.resourcesPath, 'persona_backend', 'persona_backend.exe');
+
   console.log('[Electron] Trying to launch backend from:', exePath);
 
-  const backendProcess = spawn(exePath, {
+
+  const backend = spawn(exePath, {
     detached: true,
-    stdio: 'inherit', // for debugging
+    stdio: ['ignore'],
+    detached: false
   });
 
-  backendProcess.on('error', (err) => {
-    console.error('[Electron] Failed to start backend:', err);
+  backend.on('error', (err) => {
+    console.error('[Electron] Backend failed to start:', err);
   });
 
-  backendProcess.on('exit', (code) => {
-    console.log(`[Electron] Backend process exited with code ${code}`);
-  });
-
-  backendProcess.unref();
+  backend.unref();
 }
 function createWindow() {
   const win = new BrowserWindow({
@@ -42,6 +43,11 @@ app.whenReady().then(() => {
 });
 
 app.on('window-all-closed', () => {
+  if (backend) {
+    console.log('[Electron] Killing backend process...');
+    backend.kill();
+  }
+
   if (process.platform !== 'darwin') {
     app.quit();
   }

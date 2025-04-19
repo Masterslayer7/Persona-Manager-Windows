@@ -31,8 +31,8 @@
     ],
     "extraResources": [
       {
-        "from": "backend/dist/persona_backend/persona_backend.exe",
-        "to": "persona_backend.exe"
+        "from": "backend/dist/persona_backend",
+        "to": "persona_backend"
       }
     ],
     "win": {
