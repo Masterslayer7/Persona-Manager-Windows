@@ -16,16 +16,39 @@ A desktop application built with **React**, **Django**, and **Electron** for man
 
 ## 🚀 How to Install (Windows Only)
 
-### 🖱️ One-Click Installer (Recommended)
+### One-Click Installer (Recommended)
 
 > ✅ **No setup needed** — just download and run!
 
 1. Go to the [**Releases**](https://github.com/Masterslayer7/Persona-Manager-Windows/releases/tag/v1.0.0) page
-2. Download the latest `Persona.Manager.Setup.1.0.0.exe` file
-3. Run the installer
+2. Download the latest `Persona.Manager.Setup.1.1.0.exe` file
+3. Run the installer (will take a second on first install)
 4. Launch **Persona Manager** from your desktop or start menu
 
 🎉 That’s it! The Django backend will launch in the background automatically, and the React app will open in a window.
+
+---
+
+## 🖼️ Screenshots
+
+> Here's a preview of the app in action:
+
+### 🎯 Main UI
+![Main UI](./screenshots/main-ui.png)
+
+
+---
+
+## ❓ FAQ
+
+**Q: Do I need Python to use the `.exe`?**  
+**A:** No — Python is only needed for developers. The `.exe` includes everything.
+
+**Q: Is internet required to run the app?**  
+**A:** Nope! It works completely offline.
+
+**Q: Where is my data saved?**  
+**A:** Data is saved locally using SQLite. It’s stored within the app's runtime directory.
 
 ---
 
@@ -48,31 +71,6 @@ git clone https://github.com/your-username/personaManager.git
 cd personaManager
 ```
 
-
-## 🖼️ Screenshots
-
-> Here's a preview of the app in action:
-
-### 🎯 Main UI
-![Main UI](./screenshots/main-ui.png)
-
-### 🔎 Persona Search
-![Search Box](./screenshots/search-box.png)
-
----
-
-## ❓ FAQ
-
-**Q: Do I need Python to use the `.exe`?**  
-**A:** No — Python is only needed for developers. The `.exe` includes everything.
-
-**Q: Is internet required to run the app?**  
-**A:** Nope! It works completely offline.
-
-**Q: Where is my data saved?**  
-**A:** Data is saved locally using SQLite. It’s stored within the app's runtime directory.
-
----
 
 ## 🤝 Contributing
 
